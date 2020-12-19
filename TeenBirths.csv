@@ -1,0 +1,2947 @@
+state,county,teen_birth_rate,per_uninsured,per_hsgrads,per_child_poverty,per_singleparent
+Alabama,Autauga,51,14,85,18,30
+Alabama,Baldwin,50,16,73,20,29
+Alabama,Barbour,74,19,64,36,52
+Alabama,Bibb,59,18,67,29,35
+Alabama,Blount,51,18,75,24,25
+Alabama,Bullock,90,21,58,40,64
+Alabama,Butler,66,18,76,40,50
+Alabama,Calhoun,58,16,72,32,39
+Alabama,Chambers,70,19,61,44,46
+Alabama,Cherokee,62,18,67,33,26
+Alabama,Chilton,61,19,73,32,30
+Alabama,Choctaw,53,18,68,30,37
+Alabama,Clarke,46,17,74,34,40
+Alabama,Clay,57,18,73,30,27
+Alabama,Cleburne,65,18,86,27,32
+Alabama,Coffee,51,16,79,30,37
+Alabama,Colbert,53,16,69,32,33
+Alabama,Conecuh,55,17,70,41,42
+Alabama,Coosa,55,16,61,30,32
+Alabama,Covington,70,19,72,30,38
+Alabama,Crenshaw,59,18,80,30,38
+Alabama,Cullman,57,19,74,27,25
+Alabama,Dale,56,17,69,26,31
+Alabama,Dallas,82,17,66,57,57
+Alabama,DeKalb,74,20,68,32,30
+Alabama,Elmore,51,15,67,18,29
+Alabama,Escambia,69,20,72,36,48
+Alabama,Etowah,60,17,70,29,34
+Alabama,Fayette,53,17,67,36,29
+Alabama,Franklin,75,20,70,34,32
+Alabama,Geneva,59,20,73,32,39
+Alabama,Greene,69,17,59,41,54
+Alabama,Hale,51,18,74,36,47
+Alabama,Henry,53,18,60,29,34
+Alabama,Houston,59,17,69,28,40
+Alabama,Jackson,55,17,72,29,29
+Alabama,Jefferson,50,14,69,28,42
+Alabama,Lamar,59,18,62,31,38
+Alabama,Lauderdale,41,16,80,26,29
+Alabama,Lawrence,55,18,75,24,26
+Alabama,Lee,29,16,76,21,34
+Alabama,Limestone,55,16,79,20,26
+Alabama,Lowndes,66,17,58,46,57
+Alabama,Macon,32,17,55,47,64
+Alabama,Madison,37,13,75,18,32
+Alabama,Marengo,52,18,77,33,42
+Alabama,Marion,68,18,83,31,29
+Alabama,Marshall,91,19,71,31,35
+Alabama,Mobile,61,17,65,29,42
+Alabama,Monroe,60,17,64,50,47
+Alabama,Montgomery,58,14,52,32,49
+Alabama,Morgan,57,16,70,21,31
+Alabama,Perry,49,18,79,54,66
+Alabama,Pickens,45,16,72,36,47
+Alabama,Pike,50,17,63,38,49
+Alabama,Randolph,65,19,81,37,40
+Alabama,Russell,66,18,65,36,48
+Alabama,St. Clair,55,17,74,20,26
+Alabama,Shelby,26,10,76,13,19
+Alabama,Sumter,44,20,72,43,68
+Alabama,Talladega,63,16,68,34,36
+Alabama,Tallapoosa,62,17,64,30,36
+Alabama,Tuscaloosa,38,14,69,23,36
+Alabama,Walker,62,18,59,35,31
+Alabama,Washington,43,16,79,29,28
+Alabama,Wilcox,60,19,69,53,66
+Alabama,Winston,62,18,84,32,36
+Alaska,Anchorage,40,20,75,12,30
+Alaska,Bethel,72,29,49,30,31
+Alaska,Dillingham,56,30,59,30,32
+Alaska,Fairbanks North Star,41,21,61,13,28
+Alaska,Juneau,28,19,64,10,32
+Alaska,Kenai Peninsula,29,26,79,14,29
+Alaska,Ketchikan Gateway,33,25,77,15,34
+Alaska,Kodiak Island,33,29,86,10,25
+Alaska,Matanuska-Susitna,31,24,76,14,25
+Alaska,Nome,88,31,68,31,39
+Alaska,North Slope,99,27,69,13,49
+Alaska,Northwest Arctic,89,29,56,22,43
+Alaska,Prince of Wales-Outer Ketchikan,44,28,56,24,35
+Alaska,Sitka,29,26,96,12,34
+Alaska,Southeast Fairbanks,34,29,45,22,29
+Alaska,Valdez-Cordova,23,25,72,11,33
+Alaska,Wade Hampton,98,29,60,46,38
+Alaska,Wrangell-Petersburg,23,27,79,17,41
+Alaska,Yukon-Koyukuk,55,35,100,35,53
+Arizona,Apache,57,23,72,42,43
+Arizona,Cochise,53,17,80,27,32
+Arizona,Coconino,50,20,78,28,40
+Arizona,Gila,82,19,72,34,40
+Arizona,Graham,59,21,76,26,41
+Arizona,Greenlee,65,15,76,17,35
+Arizona,La Paz,85,25,80,38,45
+Arizona,Maricopa,61,20,78,24,32
+Arizona,Mohave,66,20,69,34,36
+Arizona,Navajo,63,20,72,36,39
+Arizona,Pima,51,18,71,25,36
+Arizona,Pinal,69,20,67,18,31
+Arizona,Santa Cruz,64,24,80,44,31
+Arizona,Yavapai,52,20,73,28,33
+Arizona,Yuma,76,24,75,32,36
+Arkansas,Arkansas,58,19,72,28,39
+Arkansas,Ashley,67,20,71,32,35
+Arkansas,Baxter,50,20,75,27,29
+Arkansas,Benton,53,19,80,14,25
+Arkansas,Boone,58,20,76,26,27
+Arkansas,Bradley,78,25,77,43,32
+Arkansas,Calhoun,42,22,70,23,53
+Arkansas,Carroll,66,25,71,27,32
+Arkansas,Chicot,64,22,59,44,60
+Arkansas,Clark,35,22,100,28,36
+Arkansas,Clay,69,22,76,29,30
+Arkansas,Cleburne,51,21,75,29,24
+Arkansas,Cleveland,59,20,71,23,39
+Arkansas,Columbia,51,19,76,36,48
+Arkansas,Conway,66,19,71,26,30
+Arkansas,Craighead,54,20,82,27,38
+Arkansas,Crawford,62,20,78,24,31
+Arkansas,Crittenden,88,19,71,46,60
+Arkansas,Cross,61,20,76,30,28
+Arkansas,Dallas,61,21,56,34,48
+Arkansas,Desha,81,22,78,42,47
+Arkansas,Drew,50,21,81,30,46
+Arkansas,Faulkner,34,16,84,17,27
+Arkansas,Franklin,57,20,73,27,25
+Arkansas,Fulton,51,21,91,31,26
+Arkansas,Garland,64,21,69,38,36
+Arkansas,Grant,45,18,75,19,25
+Arkansas,Greene,71,19,72,26,26
+Arkansas,Hempstead,80,23,68,33,32
+Arkansas,Hot Spring,62,19,75,26,32
+Arkansas,Howard,72,23,86,31,40
+Arkansas,Independence,64,19,79,27,35
+Arkansas,Izard,58,24,71,32,29
+Arkansas,Jackson,78,22,68,36,46
+Arkansas,Jefferson,69,20,68,34,54
+Arkansas,Johnson,80,21,75,31,29
+Arkansas,Lafayette,60,24,69,36,37
+Arkansas,Lawrence,49,21,85,35,26
+Arkansas,Lee,76,27,59,46,57
+Arkansas,Lincoln,64,25,76,33,46
+Arkansas,Little River,60,18,71,26,32
+Arkansas,Logan,63,20,89,28,27
+Arkansas,Lonoke,49,17,77,18,27
+Arkansas,Madison,47,23,75,30,19
+Arkansas,Marion,48,20,70,36,18
+Arkansas,Miller,76,20,71,31,44
+Arkansas,Mississippi,95,20,63,36,52
+Arkansas,Monroe,69,22,75,37,57
+Arkansas,Montgomery,55,25,68,35,29
+Arkansas,Nevada,82,21,81,38,40
+Arkansas,Newton,48,24,100,37,20
+Arkansas,Ouachita,73,18,88,31,45
+Arkansas,Perry,48,20,87,27,32
+Arkansas,Phillips,94,19,54,52,65
+Arkansas,Pike,58,24,44,32,29
+Arkansas,Poinsett,84,21,74,39,43
+Arkansas,Polk,71,23,78,36,36
+Arkansas,Pope,51,21,77,25,29
+Arkansas,Prairie,52,22,87,29,33
+Arkansas,Pulaski,60,16,62,25,43
+Arkansas,Randolph,60,21,79,31,26
+Arkansas,St. Francis,98,22,67,47,59
+Arkansas,Saline,39,15,76,15,27
+Arkansas,Scott,84,24,100,36,33
+Arkansas,Searcy,51,24,100,42,30
+Arkansas,Sebastian,68,22,76,31,32
+Arkansas,Sevier,88,27,71,32,37
+Arkansas,Sharp,60,22,77,39,27
+Arkansas,Stone,60,24,75,38,28
+Arkansas,Union,65,18,79,33,42
+Arkansas,Van Buren,68,21,82,33,36
+Arkansas,Washington,55,21,77,25,30
+Arkansas,White,51,21,75,22,30
+Arkansas,Woodruff,79,22,66,43,43
+Arkansas,Yell,91,25,73,30,28
+California,Alameda,29,15,75,17,30
+California,Amador,26,16,88,17,23
+California,Butte,32,18,80,25,35
+California,Calaveras,23,16,89,18,27
+California,Colusa,49,24,70,23,33
+California,Contra Costa,25,14,81,13,26
+California,Del Norte,50,23,71,31,43
+California,El Dorado,20,13,84,12,24
+California,Fresno,61,22,67,38,36
+California,Glenn,49,24,81,26,31
+California,Humboldt,31,20,80,22,39
+California,Imperial,66,24,79,32,35
+California,Inyo,40,20,44,21,39
+California,Kern,69,22,74,30,36
+California,Kings,72,24,70,30,28
+California,Lake,42,20,77,30,32
+California,Lassen,32,19,73,19,33
+California,Los Angeles,40,25,71,25,34
+California,Madera,67,24,75,32,32
+California,Marin,13,12,90,11,24
+California,Mariposa,22,17,88,22,31
+California,Mendocino,39,22,73,29,37
+California,Merced,57,21,78,31,31
+California,Modoc,37,22,80,33,39
+California,Mono,29,21,74,15,25
+California,Monterey,57,24,72,26,31
+California,Napa,30,18,77,15,24
+California,Nevada,19,16,48,17,31
+California,Orange,31,20,82,16,25
+California,Placer,20,12,86,11,21
+California,Plumas,23,16,78,22,34
+California,Riverside,47,23,76,23,28
+California,Sacramento,40,16,71,24,34
+California,San Benito,39,19,86,17,25
+California,San Bernardino,50,22,69,25,32
+California,San Diego,37,19,74,19,29
+California,San Francisco,22,15,76,15,29
+California,San Joaquin,51,19,71,26,33
+California,San Luis Obispo,22,18,86,15,26
+California,San Mateo,23,13,81,9,22
+California,Santa Barbara,40,20,81,22,28
+California,Santa Clara,27,14,78,13,22
+California,Santa Cruz,31,18,77,19,28
+California,Shasta,39,18,81,25,34
+California,Siskiyou,38,19,88,31,37
+California,Solano,33,15,70,18,31
+California,Sonoma,26,16,77,15,28
+California,Stanislaus,48,20,75,28,31
+California,Sutter,46,22,74,24,29
+California,Tehama,51,21,76,31,37
+California,Trinity,25,19,82,31,45
+California,Tulare,69,24,75,34,33
+California,Tuolumne,27,17,82,22,26
+California,Ventura,36,18,79,15,25
+California,Yolo,22,16,76,19,27
+California,Yuba,63,19,57,28,33
+Colorado,Adams,62,22,63,18,29
+Colorado,Alamosa,57,21,73,29,32
+Colorado,Arapahoe,39,17,70,15,30
+Colorado,Archuleta,35,22,80,23,29
+Colorado,Baca,34,25,31,26,17
+Colorado,Bent,58,30,75,32,50
+Colorado,Boulder,21,14,81,14,23
+Colorado,Chaffee,39,21,81,19,24
+Colorado,Clear Creek,15,13,82,13,27
+Colorado,Conejos,47,22,84,28,23
+Colorado,Costilla,63,24,69,37,37
+Colorado,Crowley,58,28,71,36,25
+Colorado,Delta,53,23,84,23,26
+Colorado,Denver,93,22,52,31,37
+Colorado,Douglas,11,7,83,4,13
+Colorado,Eagle,51,22,81,12,24
+Colorado,Elbert,12,13,93,10,14
+Colorado,El Paso,43,15,78,18,28
+Colorado,Fremont,48,22,74,23,26
+Colorado,Garfield,57,23,70,14,23
+Colorado,Grand,29,19,88,13,19
+Colorado,Gunnison,16,21,86,15,21
+Colorado,Huerfano,52,24,75,37,33
+Colorado,Jefferson,26,13,78,11,27
+Colorado,Kit Carson,44,29,94,20,25
+Colorado,Lake,72,27,71,21,32
+Colorado,La Plata,22,20,75,14,28
+Colorado,Larimer,24,16,82,13,23
+Colorado,Las Animas,58,21,64,25,24
+Colorado,Lincoln,44,26,66,23,37
+Colorado,Logan,45,21,77,20,32
+Colorado,Mesa,53,18,70,18,27
+Colorado,Moffat,54,20,84,14,30
+Colorado,Montezuma,51,23,64,27,32
+Colorado,Montrose,56,24,74,23,23
+Colorado,Morgan,73,25,70,21,34
+Colorado,Otero,75,21,82,30,33
+Colorado,Park,12,15,83,14,22
+Colorado,Phillips,49,24,87,16,18
+Colorado,Pitkin,11,15,95,8,17
+Colorado,Prowers,79,25,72,32,32
+Colorado,Pueblo,65,18,65,26,39
+Colorado,Rio Blanco,38,17,92,11,21
+Colorado,Rio Grande,70,22,66,29,33
+Colorado,Routt,13,15,89,10,19
+Colorado,Saguache,61,35,82,37,33
+Colorado,San Miguel,20,23,92,14,28
+Colorado,Summit,44,20,82,13,22
+Colorado,Teller,24,14,82,14,23
+Colorado,Washington,30,22,93,21,25
+Colorado,Weld,51,19,71,19,23
+Colorado,Yuma,47,25,89,17,16
+Connecticut,Fairfield,20,11,82,11,23
+Connecticut,Hartford,30,10,75,15,35
+Connecticut,Litchfield,14,10,70,8,22
+Connecticut,Middlesex,12,8,92,7,24
+Connecticut,New Haven,29,10,68,16,34
+Connecticut,New London,26,9,78,12,31
+Connecticut,Tolland,7,8,79,6,20
+Connecticut,Windham,29,11,63,15,32
+Delaware,Kent,45,13,82,20,36
+Delaware,New Castle,37,11,81,15,34
+Delaware,Sussex,65,16,85,24,39
+Florida,Alachua,25,20,76,26,39
+Florida,Baker,79,23,76,24,27
+Florida,Bay,59,23,81,22,35
+Florida,Bradford,73,24,64,26,37
+Florida,Brevard,35,20,95,20,30
+Florida,Broward,31,27,78,20,36
+Florida,Calhoun,66,27,88,30,42
+Florida,Charlotte,37,23,79,26,35
+Florida,Citrus,42,24,83,31,36
+Florida,Clay,38,18,78,16,28
+Florida,Collier,56,28,79,26,31
+Florida,Columbia,67,23,87,30,41
+Florida,DeSoto,87,36,61,40,47
+Florida,Dixie,71,25,66,37,32
+Florida,Duval,54,20,67,24,39
+Florida,Escambia,51,22,78,28,43
+Florida,Flagler,36,22,84,22,31
+Florida,Franklin,86,32,79,35,54
+Florida,Gadsden,80,22,58,33,57
+Florida,Gilchrist,60,26,92,27,38
+Florida,Glades,44,31,64,29,49
+Florida,Gulf,39,27,96,27,42
+Florida,Hamilton,85,29,63,39,52
+Florida,Hardee,99,34,75,41,28
+Florida,Hendry,89,37,81,44,42
+Florida,Hernando,39,23,79,24,33
+Florida,Highlands,64,29,73,33,36
+Florida,Hillsborough,50,22,82,23,38
+Florida,Holmes,70,26,81,32,35
+Florida,Indian River,47,26,82,25,35
+Florida,Jackson,58,24,82,27,35
+Florida,Jefferson,57,22,51,29,46
+Florida,Lafayette,66,36,88,29,24
+Florida,Lake,57,24,81,22,30
+Florida,Lee,56,26,80,28,33
+Florida,Leon,24,17,78,25,41
+Florida,Levy,58,26,71,42,37
+Florida,Liberty,71,29,75,28,41
+Florida,Madison,60,26,65,36,45
+Florida,Manatee,64,24,76,23,37
+Florida,Marion,57,24,78,31,38
+Florida,Martin,38,22,90,17,29
+Florida,Miami-Dade,37,34,72,26,39
+Florida,Monroe,29,27,85,19,31
+Florida,Nassau,50,20,90,18,29
+Florida,Okaloosa,47,19,89,20,31
+Florida,Okeechobee,88,32,65,33,33
+Florida,Orange,47,25,79,23,36
+Florida,Osceola,54,27,83,24,37
+Florida,Palm Beach,38,26,82,22,36
+Florida,Pasco,41,24,82,21,28
+Florida,Pinellas,40,22,78,20,39
+Florida,Polk,65,22,73,28,35
+Florida,Putnam,73,24,75,38,44
+Florida,St. Johns,26,17,92,14,22
+Florida,St. Lucie,53,26,79,27,37
+Florida,Santa Rosa,38,20,88,18,29
+Florida,Sarasota,34,24,84,22,34
+Florida,Seminole,27,20,94,14,30
+Florida,Sumter,62,21,87,34,35
+Florida,Suwannee,76,27,63,30,37
+Florida,Taylor,67,25,74,31,41
+Florida,Union,70,27,76,26,35
+Florida,Volusia,42,24,81,27,35
+Florida,Wakulla,40,22,83,20,25
+Florida,Walton,56,25,83,27,32
+Florida,Washington,60,24,84,31,31
+Georgia,Appling,80,24,80,36,32
+Georgia,Atkinson,107,29,82,58,45
+Georgia,Bacon,90,24,83,36,29
+Georgia,Baker,33,24,77,41,57
+Georgia,Baldwin,42,21,77,35,53
+Georgia,Banks,60,24,75,25,23
+Georgia,Barrow,55,23,75,18,26
+Georgia,Bartow,76,21,82,22,29
+Georgia,Ben Hill,99,23,75,42,43
+Georgia,Berrien,95,23,75,34,27
+Georgia,Bibb,63,19,63,39,51
+Georgia,Bleckley,43,19,78,27,31
+Georgia,Brantley,46,25,71,32,33
+Georgia,Brooks,67,24,71,38,38
+Georgia,Bryan,41,18,83,17,29
+Georgia,Bulloch,33,22,82,32,38
+Georgia,Burke,77,20,72,47,48
+Georgia,Butts,80,21,77,24,30
+Georgia,Calhoun,90,27,79,41,60
+Georgia,Camden,59,18,85,21,33
+Georgia,Candler,120,28,78,38,46
+Georgia,Carroll,54,21,80,24,30
+Georgia,Catoosa,55,18,80,21,29
+Georgia,Charlton,62,24,84,32,47
+Georgia,Chatham,57,21,78,28,47
+Georgia,Chattahoochee,29,20,87,21,23
+Georgia,Chattooga,84,24,83,29,40
+Georgia,Cherokee,33,17,82,12,20
+Georgia,Clarke,28,23,70,36,47
+Georgia,Clayton,60,23,82,34,49
+Georgia,Clinch,94,24,82,35,39
+Georgia,Cobb,36,20,87,20,28
+Georgia,Coffee,99,27,74,39,38
+Georgia,Colquitt,96,27,81,35,40
+Georgia,Columbia,27,14,85,11,25
+Georgia,Cook,81,25,66,37,38
+Georgia,Coweta,47,17,84,17,25
+Georgia,Crawford,34,22,65,30,39
+Georgia,Crisp,105,23,66,47,60
+Georgia,Dade,35,22,77,22,34
+Georgia,Dawson,55,22,85,22,23
+Georgia,Decatur,80,24,77,39,52
+Georgia,DeKalb,48,23,79,27,46
+Georgia,Dodge,72,23,83,33,36
+Georgia,Dooly,91,23,69,35,58
+Georgia,Dougherty,75,21,78,49,61
+Georgia,Douglas,45,20,81,19,35
+Georgia,Early,76,20,84,40,47
+Georgia,Echols,39,34,89,41,39
+Georgia,Effingham,40,18,82,15,22
+Georgia,Elbert,64,24,74,38,46
+Georgia,Emanuel,82,27,81,43,42
+Georgia,Evans,93,26,68,37,48
+Georgia,Fannin,63,26,91,28,31
+Georgia,Fayette,15,10,94,10,17
+Georgia,Floyd,64,22,79,26,36
+Georgia,Forsyth,28,13,90,9,13
+Georgia,Franklin,69,24,73,29,31
+Georgia,Fulton,47,23,80,24,42
+Georgia,Gilmer,89,27,88,29,32
+Georgia,Glascock,47,21,80,24,22
+Georgia,Glynn,71,21,73,30,40
+Georgia,Gordon,91,24,84,26,26
+Georgia,Grady,87,25,82,38,49
+Georgia,Greene,59,23,74,42,54
+Georgia,Gwinnett,39,23,85,19,26
+Georgia,Habersham,72,27,83,26,26
+Georgia,Hall,71,26,79,25,28
+Georgia,Hancock,65,23,89,42,76
+Georgia,Haralson,69,22,82,29,36
+Georgia,Harris,31,15,87,13,23
+Georgia,Hart,52,23,73,30,33
+Georgia,Heard,57,22,82,31,27
+Georgia,Henry,40,16,82,14,28
+Georgia,Houston,45,17,83,21,35
+Georgia,Irwin,58,23,74,35,33
+Georgia,Jackson,67,21,86,21,28
+Georgia,Jasper,55,21,74,30,40
+Georgia,Jeff Davis,106,24,83,35,30
+Georgia,Jefferson,77,23,72,44,52
+Georgia,Jenkins,77,23,70,46,37
+Georgia,Johnson,73,25,68,36,43
+Georgia,Jones,27,18,76,18,24
+Georgia,Lamar,48,21,73,27,38
+Georgia,Lanier,70,24,75,34,54
+Georgia,Laurens,68,20,77,29,43
+Georgia,Lee,30,16,75,15,20
+Georgia,Liberty,73,21,78,31,40
+Georgia,Lincoln,42,24,83,32,46
+Georgia,Long,52,26,93,30,41
+Georgia,Lowndes,64,21,79,30,40
+Georgia,Lumpkin,26,24,90,25,33
+Georgia,McDuffie,73,21,85,32,52
+Georgia,McIntosh,66,23,83,33,49
+Georgia,Macon,60,25,76,40,47
+Georgia,Madison,59,23,74,25,37
+Georgia,Marion,75,24,92,37,49
+Georgia,Meriwether,63,22,79,31,49
+Georgia,Miller,53,22,83,37,40
+Georgia,Mitchell,84,23,78,41,51
+Georgia,Monroe,37,18,76,22,29
+Georgia,Montgomery,51,26,71,33,39
+Georgia,Morgan,42,20,88,24,29
+Georgia,Murray,98,24,77,27,24
+Georgia,Muscogee,72,18,82,30,50
+Georgia,Newton,58,21,84,21,36
+Georgia,Oconee,17,15,93,11,18
+Georgia,Oglethorpe,40,23,77,24,23
+Georgia,Paulding,35,16,82,12,26
+Georgia,Peach,61,22,79,36,42
+Georgia,Pickens,61,20,81,22,22
+Georgia,Pierce,87,23,87,29,27
+Georgia,Pike,44,20,88,18,27
+Georgia,Polk,95,24,77,31,36
+Georgia,Pulaski,60,24,81,28,50
+Georgia,Putnam,61,22,72,33,46
+Georgia,Quitman,86,25,37,44,43
+Georgia,Rabun,58,26,93,31,28
+Georgia,Randolph,53,23,72,39,52
+Georgia,Richmond,70,20,78,39,57
+Georgia,Rockdale,44,21,84,25,36
+Georgia,Schley,67,22,89,25,31
+Georgia,Screven,61,22,75,34,43
+Georgia,Seminole,75,22,84,41,53
+Georgia,Spalding,81,22,69,35,47
+Georgia,Stephens,61,23,83,34,30
+Georgia,Stewart,90,22,73,46,57
+Georgia,Sumter,70,22,76,43,51
+Georgia,Talbot,63,21,72,36,32
+Georgia,Taliaferro,74,27,86,49,66
+Georgia,Tattnall,93,31,68,36,41
+Georgia,Taylor,64,22,59,34,40
+Georgia,Telfair,91,26,81,41,44
+Georgia,Terrell,85,23,75,42,63
+Georgia,Thomas,68,21,79,36,45
+Georgia,Tift,78,25,83,33,42
+Georgia,Toombs,83,25,74,40,42
+Georgia,Towns,26,27,97,29,29
+Georgia,Treutlen,71,26,71,42,33
+Georgia,Troup,78,21,80,30,42
+Georgia,Turner,87,25,74,41,52
+Georgia,Twiggs,53,22,83,32,37
+Georgia,Union,44,24,57,33,10
+Georgia,Upson,69,21,70,32,36
+Georgia,Walker,74,21,76,26,31
+Georgia,Walton,51,20,82,21,22
+Georgia,Ware,92,24,71,34,35
+Georgia,Warren,74,22,76,39,51
+Georgia,Washington,54,22,77,35,52
+Georgia,Wayne,87,24,80,35,33
+Georgia,Webster,71,24,89,31,72
+Georgia,Wheeler,87,28,82,35,36
+Georgia,White,53,23,94,25,31
+Georgia,Whitfield,101,28,85,27,32
+Georgia,Wilcox,73,26,83,38,50
+Georgia,Wilkes,56,23,78,39,61
+Georgia,Wilkinson,63,20,79,33,45
+Georgia,Worth,52,22,73,30,48
+Hawaii,Honolulu,36,7,100,12,27
+Idaho,Ada,30,15,84,16,23
+Idaho,Adams,25,27,68,25,33
+Idaho,Bannock,40,17,91,20,23
+Idaho,Bear Lake,19,20,85,20,10
+Idaho,Benewah,53,21,77,25,33
+Idaho,Bingham,42,22,80,20,20
+Idaho,Blaine,35,21,76,15,16
+Idaho,Boise,21,21,74,21,31
+Idaho,Bonner,30,21,77,25,27
+Idaho,Bonneville,48,17,87,17,20
+Idaho,Boundary,33,24,76,25,25
+Idaho,Butte,37,23,24,22,25
+Idaho,Canyon,68,24,73,25,26
+Idaho,Caribou,29,18,91,16,15
+Idaho,Cassia,53,24,87,21,20
+Idaho,Clearwater,38,21,95,26,25
+Idaho,Elmore,62,20,72,22,21
+Idaho,Franklin,26,20,94,15,12
+Idaho,Fremont,42,26,72,24,11
+Idaho,Gem,48,23,75,25,26
+Idaho,Gooding,62,27,79,23,22
+Idaho,Idaho,31,22,84,27,34
+Idaho,Jefferson,32,21,87,16,13
+Idaho,Jerome,70,26,82,25,26
+Idaho,Kootenai,33,19,74,18,27
+Idaho,Latah,9,18,82,15,23
+Idaho,Lemhi,25,21,72,33,39
+Idaho,Lewis,38,20,91,29,27
+Idaho,Lincoln,56,26,86,19,24
+Idaho,Madison,10,15,100,20,7
+Idaho,Minidoka,68,23,73,22,25
+Idaho,Nez Perce,38,16,83,18,31
+Idaho,Oneida,24,20,96,17,17
+Idaho,Owyhee,56,30,83,32,20
+Idaho,Payette,48,22,75,23,28
+Idaho,Power,46,25,87,24,11
+Idaho,Shoshone,48,19,77,27,34
+Idaho,Teton,29,27,83,17,14
+Idaho,Twin Falls,52,22,76,19,27
+Idaho,Valley,38,23,71,22,18
+Idaho,Washington,42,25,91,26,26
+Illinois,Adams,38,11,89,18,29
+Illinois,Alexander,91,16,71,49,64
+Illinois,Bond,34,15,85,19,17
+Illinois,Boone,36,13,75,17,24
+Illinois,Brown,37,22,89,14,25
+Illinois,Bureau,29,12,84,18,29
+Illinois,Calhoun,28,14,92,15,14
+Illinois,Carroll,35,14,89,21,33
+Illinois,Cass,56,15,89,20,30
+Illinois,Champaign,23,12,86,20,36
+Illinois,Christian,49,13,83,20,36
+Illinois,Clark,43,13,83,19,25
+Illinois,Clay,50,14,81,22,25
+Illinois,Clinton,31,12,83,12,24
+Illinois,Coles,26,13,87,22,29
+Illinois,Cook,49,19,82,25,37
+Illinois,Crawford,42,14,82,20,27
+Illinois,Cumberland,30,13,87,18,30
+Illinois,DeKalb,17,14,86,15,22
+Illinois,De Witt,38,12,85,17,23
+Illinois,Douglas,39,16,85,17,22
+Illinois,DuPage,17,10,92,9,18
+Illinois,Edgar,48,15,82,22,36
+Illinois,Edwards,30,12,93,17,25
+Illinois,Effingham,36,12,87,15,22
+Illinois,Fayette,48,16,85,23,31
+Illinois,Ford,35,12,83,17,19
+Illinois,Franklin,52,15,83,28,42
+Illinois,Fulton,45,15,85,19,29
+Illinois,Gallatin,46,16,89,28,26
+Illinois,Greene,40,14,83,22,28
+Illinois,Grundy,28,10,86,9,25
+Illinois,Hamilton,40,15,96,23,29
+Illinois,Hancock,40,12,83,20,26
+Illinois,Hardin,51,15,69,31,42
+Illinois,Henderson,32,15,81,21,26
+Illinois,Henry,32,12,82,16,24
+Illinois,Iroquois,40,13,84,18,23
+Illinois,Jackson,26,15,90,31,40
+Illinois,Jasper,31,13,83,16,32
+Illinois,Jefferson,53,14,80,25,35
+Illinois,Jersey,29,12,88,14,23
+Illinois,Jo Daviess,24,13,88,16,23
+Illinois,Johnson,35,19,85,20,15
+Illinois,Kane,44,15,87,16,24
+Illinois,Kankakee,47,15,81,20,38
+Illinois,Kendall,22,10,91,6,18
+Illinois,Knox,42,14,81,25,40
+Illinois,Lake,27,12,86,12,21
+Illinois,LaSalle,37,13,83,18,27
+Illinois,Lawrence,38,15,80,24,37
+Illinois,Lee,33,14,81,15,29
+Illinois,Livingston,36,12,75,16,27
+Illinois,Logan,35,14,76,18,33
+Illinois,McDonough,13,15,80,23,33
+Illinois,McHenry,21,11,91,10,18
+Illinois,McLean,19,10,85,10,26
+Illinois,Macon,55,13,79,27,40
+Illinois,Macoupin,36,12,87,19,30
+Illinois,Madison,41,11,82,22,32
+Illinois,Marion,62,13,77,27,39
+Illinois,Marshall,29,11,94,18,21
+Illinois,Mason,52,13,79,24,32
+Illinois,Massac,65,13,92,27,22
+Illinois,Menard,25,10,85,14,23
+Illinois,Monroe,14,8,91,6,19
+Illinois,Montgomery,47,15,80,21,26
+Illinois,Morgan,36,13,85,21,38
+Illinois,Moultrie,33,13,82,17,18
+Illinois,Ogle,30,13,90,16,25
+Illinois,Peoria,51,13,82,21,41
+Illinois,Perry,45,16,81,24,34
+Illinois,Piatt,22,11,96,10,20
+Illinois,Pike,43,16,85,25,33
+Illinois,Pope,37,16,79,27,22
+Illinois,Pulaski,74,15,75,36,41
+Illinois,Putnam,17,11,87,14,20
+Illinois,Randolph,48,15,79,19,28
+Illinois,Richland,39,14,85,21,22
+Illinois,Rock Island,51,13,85,20,37
+Illinois,St. Clair,53,13,81,23,44
+Illinois,Saline,57,13,78,28,34
+Illinois,Sangamon,47,10,83,20,36
+Illinois,Schuyler,32,14,84,18,29
+Illinois,Scott,45,12,80,13,20
+Illinois,Shelby,37,12,87,18,20
+Illinois,Stark,29,12,93,17,20
+Illinois,Stephenson,45,12,80,21,33
+Illinois,Tazewell,37,10,86,14,25
+Illinois,Union,48,15,83,26,31
+Illinois,Vermilion,65,13,81,31,44
+Illinois,Wabash,37,13,77,21,26
+Illinois,Warren,29,13,86,19,31
+Illinois,Washington,34,11,86,13,28
+Illinois,Wayne,47,14,88,23,32
+Illinois,White,54,14,81,26,31
+Illinois,Whiteside,48,13,82,18,33
+Illinois,Will,27,12,86,12,21
+Illinois,Williamson,45,14,88,24,33
+Illinois,Winnebago,52,15,81,27,38
+Illinois,Woodford,19,9,87,10,18
+Indiana,Adams,33,18,90,30,19
+Indiana,Allen,47,17,88,20,33
+Indiana,Bartholomew,58,15,84,22,29
+Indiana,Benton,41,17,90,18,22
+Indiana,Blackford,58,16,86,24,35
+Indiana,Boone,27,11,97,10,18
+Indiana,Brown,21,17,89,21,25
+Indiana,Carroll,31,16,89,16,15
+Indiana,Cass,53,17,83,26,29
+Indiana,Clark,50,16,88,19,37
+Indiana,Clay,46,16,92,22,28
+Indiana,Clinton,58,19,85,22,31
+Indiana,Crawford,48,19,82,28,28
+Indiana,Daviess,49,22,83,24,23
+Indiana,Dearborn,37,14,88,14,20
+Indiana,Decatur,53,16,93,22,32
+Indiana,DeKalb,49,16,88,16,25
+Indiana,Delaware,28,17,93,28,38
+Indiana,Dubois,32,14,90,10,19
+Indiana,Elkhart,61,21,84,27,31
+Indiana,Fayette,60,17,78,26,34
+Indiana,Floyd,40,14,87,19,37
+Indiana,Fountain,47,17,88,20,30
+Indiana,Franklin,35,17,86,18,18
+Indiana,Fulton,51,19,90,22,29
+Indiana,Gibson,38,15,89,16,23
+Indiana,Grant,45,17,82,30,37
+Indiana,Greene,49,17,91,21,28
+Indiana,Hamilton,16,9,90,6,18
+Indiana,Hancock,34,12,91,11,23
+Indiana,Harrison,36,16,90,17,22
+Indiana,Hendricks,23,12,94,8,21
+Indiana,Henry,43,16,82,24,26
+Indiana,Howard,55,14,92,25,35
+Indiana,Huntington,30,16,89,16,22
+Indiana,Jackson,65,17,88,19,24
+Indiana,Jasper,36,15,87,14,30
+Indiana,Jay,48,19,84,26,30
+Indiana,Jefferson,38,17,76,23,33
+Indiana,Jennings,73,18,82,22,35
+Indiana,Johnson,34,14,92,15,24
+Indiana,Knox,41,17,83,23,35
+Indiana,Kosciusko,47,17,83,20,26
+Indiana,LaGrange,32,27,88,27,16
+Indiana,Lake,46,16,80,26,40
+Indiana,LaPorte,52,17,84,25,35
+Indiana,Lawrence,52,17,83,23,33
+Indiana,Madison,51,18,75,28,38
+Indiana,Marion,67,18,81,31,45
+Indiana,Marshall,42,19,86,19,24
+Indiana,Martin,49,17,79,19,19
+Indiana,Miami,47,18,91,24,29
+Indiana,Monroe,14,17,87,18,32
+Indiana,Montgomery,55,15,94,23,26
+Indiana,Morgan,42,15,88,18,27
+Indiana,Newton,34,18,76,17,22
+Indiana,Noble,52,20,79,19,25
+Indiana,Ohio,41,16,85,14,26
+Indiana,Orange,49,18,88,27,20
+Indiana,Owen,45,18,74,23,32
+Indiana,Parke,39,20,84,28,26
+Indiana,Perry,50,17,85,17,28
+Indiana,Pike,43,16,91,20,28
+Indiana,Porter,24,13,90,14,27
+Indiana,Posey,27,12,91,14,24
+Indiana,Pulaski,42,17,89,22,28
+Indiana,Putnam,35,17,83,18,24
+Indiana,Randolph,51,17,88,26,35
+Indiana,Ripley,44,17,80,15,25
+Indiana,Rush,52,18,93,21,25
+Indiana,St. Joseph,42,16,81,24,35
+Indiana,Scott,68,17,76,29,36
+Indiana,Shelby,48,16,89,19,30
+Indiana,Spencer,32,15,93,15,16
+Indiana,Starke,57,18,78,30,33
+Indiana,Steuben,46,17,86,20,25
+Indiana,Sullivan,47,17,86,21,25
+Indiana,Switzerland,41,19,77,27,24
+Indiana,Tippecanoe,26,16,83,20,30
+Indiana,Tipton,41,14,90,15,26
+Indiana,Union,47,17,81,20,22
+Indiana,Vanderburgh,45,15,88,25,40
+Indiana,Vermillion,38,15,90,20,28
+Indiana,Vigo,44,17,85,27,36
+Indiana,Wabash,38,16,85,18,26
+Indiana,Warren,30,15,96,16,29
+Indiana,Warrick,28,13,87,10,20
+Indiana,Washington,47,19,88,25,31
+Indiana,Wayne,56,18,83,30,40
+Indiana,Wells,26,15,90,15,22
+Indiana,White,46,19,83,18,28
+Indiana,Whitley,34,13,89,13,20
+Iowa,Adair,22,10,97,14,20
+Iowa,Adams,29,12,96,21,26
+Iowa,Allamakee,38,14,96,22,22
+Iowa,Appanoose,47,12,97,24,32
+Iowa,Audubon,32,12,96,15,19
+Iowa,Benton,18,9,85,11,20
+Iowa,Black Hawk,33,11,85,25,37
+Iowa,Boone,29,9,90,12,21
+Iowa,Bremer,10,8,96,8,20
+Iowa,Buchanan,28,11,96,16,20
+Iowa,Buena Vista,41,15,76,19,27
+Iowa,Butler,24,9,93,13,22
+Iowa,Calhoun,24,11,95,17,23
+Iowa,Carroll,25,9,93,12,27
+Iowa,Cass,38,11,89,20,30
+Iowa,Cedar,18,9,92,10,23
+Iowa,Cerro Gordo,32,10,91,17,33
+Iowa,Cherokee,30,11,95,14,10
+Iowa,Chickasaw,24,11,91,15,21
+Iowa,Clarke,54,11,91,19,26
+Iowa,Clay,33,10,87,16,30
+Iowa,Clayton,23,13,94,19,20
+Iowa,Clinton,44,9,85,19,33
+Iowa,Crawford,38,14,89,18,28
+Iowa,Dallas,24,8,95,8,20
+Iowa,Davis,26,16,99,28,11
+Iowa,Decatur,27,15,93,26,20
+Iowa,Delaware,24,10,98,14,18
+Iowa,Des Moines,49,10,81,24,35
+Iowa,Dickinson,25,9,92,13,26
+Iowa,Dubuque,26,9,91,14,24
+Iowa,Emmet,32,12,88,19,25
+Iowa,Fayette,31,10,95,19,21
+Iowa,Floyd,34,11,93,22,23
+Iowa,Franklin,40,13,94,19,23
+Iowa,Fremont,33,10,93,17,27
+Iowa,Greene,30,11,92,19,21
+Iowa,Grundy,15,8,92,8,18
+Iowa,Guthrie,24,11,96,15,20
+Iowa,Hamilton,35,9,93,15,22
+Iowa,Hancock,27,10,89,13,23
+Iowa,Hardin,31,11,91,17,19
+Iowa,Harrison,24,9,92,15,19
+Iowa,Henry,33,9,88,20,32
+Iowa,Howard,29,12,95,20,19
+Iowa,Humboldt,32,11,94,16,29
+Iowa,Ida,29,11,98,17,28
+Iowa,Iowa,20,8,90,10,21
+Iowa,Jackson,27,11,93,20,19
+Iowa,Jasper,36,9,93,16,32
+Iowa,Jefferson,26,13,93,23,20
+Iowa,Johnson,12,9,87,13,23
+Iowa,Jones,34,10,92,14,25
+Iowa,Keokuk,29,11,85,18,22
+Iowa,Kossuth,19,9,93,14,17
+Iowa,Lee,44,11,84,24,43
+Iowa,Linn,30,8,86,12,28
+Iowa,Louisa,44,13,87,16,26
+Iowa,Lucas,37,12,93,25,18
+Iowa,Lyon,16,10,98,12,13
+Iowa,Madison,28,10,97,11,23
+Iowa,Mahaska,39,11,92,18,29
+Iowa,Marion,23,9,94,11,18
+Iowa,Marshall,64,11,85,18,24
+Iowa,Mills,26,9,92,13,19
+Iowa,Mitchell,19,11,98,17,13
+Iowa,Monona,35,12,90,20,37
+Iowa,Monroe,40,12,97,19,15
+Iowa,Montgomery,37,11,91,22,35
+Iowa,Muscatine,54,11,82,20,32
+Iowa,O'Brien,35,11,91,15,19
+Iowa,Osceola,25,12,90,15,15
+Iowa,Page,40,11,94,22,32
+Iowa,Palo Alto,17,11,94,15,17
+Iowa,Plymouth,21,9,95,10,17
+Iowa,Pocahontas,26,10,96,19,22
+Iowa,Polk,44,9,88,15,29
+Iowa,Pottawattamie,45,11,84,19,35
+Iowa,Poweshiek,18,9,96,15,23
+Iowa,Ringgold,47,14,93,30,23
+Iowa,Sac,21,11,98,15,22
+Iowa,Scott,44,10,85,20,33
+Iowa,Shelby,21,9,93,13,20
+Iowa,Sioux,18,10,91,9,12
+Iowa,Story,9,8,93,12,21
+Iowa,Tama,41,11,92,18,33
+Iowa,Taylor,26,13,94,19,24
+Iowa,Union,35,11,94,21,33
+Iowa,Van Buren,31,14,97,26,19
+Iowa,Wapello,56,11,84,24,34
+Iowa,Warren,22,8,94,9,21
+Iowa,Washington,31,11,91,15,23
+Iowa,Wayne,52,12,96,27,22
+Iowa,Webster,44,12,89,22,39
+Iowa,Winnebago,24,9,88,16,21
+Iowa,Winneshiek,8,11,98,12,18
+Iowa,Woodbury,53,14,84,22,33
+Iowa,Worth,32,10,95,17,27
+Iowa,Wright,49,11,94,17,26
+Kansas,Allen,53,15,88,26,26
+Kansas,Anderson,41,16,88,22,19
+Kansas,Atchison,42,14,77,20,32
+Kansas,Barber,29,17,99,19,39
+Kansas,Barton,44,18,89,20,25
+Kansas,Bourbon,69,16,81,26,25
+Kansas,Brown,55,16,87,27,34
+Kansas,Butler,33,13,94,12,21
+Kansas,Chase,44,19,90,19,20
+Kansas,Chautauqua,34,20,87,25,29
+Kansas,Cherokee,59,16,89,28,30
+Kansas,Clay,32,15,93,17,25
+Kansas,Cloud,36,15,93,19,26
+Kansas,Coffey,34,13,97,13,25
+Kansas,Cowley,45,16,90,22,33
+Kansas,Crawford,47,17,92,27,29
+Kansas,Dickinson,35,14,91,17,25
+Kansas,Doniphan,21,16,88,17,27
+Kansas,Douglas,14,14,88,14,27
+Kansas,Edwards,58,19,100,19,23
+Kansas,Elk,51,22,94,29,27
+Kansas,Ellis,27,14,93,13,20
+Kansas,Ellsworth,20,17,95,15,22
+Kansas,Finney,75,24,82,21,25
+Kansas,Ford,75,22,86,21,26
+Kansas,Franklin,50,13,89,17,25
+Kansas,Geary,91,16,84,16,33
+Kansas,Grant,67,22,86,17,22
+Kansas,Gray,42,22,94,13,18
+Kansas,Greenwood,49,18,93,26,28
+Kansas,Hamilton,78,25,100,20,22
+Kansas,Harper,46,18,86,22,30
+Kansas,Harvey,33,14,92,13,23
+Kansas,Haskell,53,23,98,18,18
+Kansas,Jackson,37,14,92,16,29
+Kansas,Jefferson,34,12,96,13,21
+Kansas,Johnson,20,10,95,8,20
+Kansas,Kearny,56,23,92,18,27
+Kansas,Kingman,24,15,91,18,20
+Kansas,Labette,60,15,87,25,33
+Kansas,Leavenworth,34,12,88,13,26
+Kansas,Linn,32,16,95,22,21
+Kansas,Lyon,45,20,92,22,29
+Kansas,McPherson,26,13,93,12,17
+Kansas,Marion,17,16,91,14,17
+Kansas,Marshall,27,15,97,17,15
+Kansas,Meade,37,22,94,15,19
+Kansas,Miami,31,13,90,12,23
+Kansas,Mitchell,19,14,87,15,18
+Kansas,Montgomery,66,15,89,26,35
+Kansas,Morris,31,17,98,17,28
+Kansas,Morton,57,19,82,19,23
+Kansas,Nemaha,16,13,93,13,17
+Kansas,Neosho,53,15,88,24,31
+Kansas,Ness,36,16,92,15,20
+Kansas,Norton,24,18,93,18,23
+Kansas,Osage,36,13,90,17,29
+Kansas,Osborne,34,18,93,22,19
+Kansas,Ottawa,31,14,96,13,15
+Kansas,Pawnee,37,17,88,18,30
+Kansas,Phillips,30,16,98,16,24
+Kansas,Pottawatomie,27,12,92,12,16
+Kansas,Pratt,42,14,95,17,24
+Kansas,Reno,47,16,91,21,35
+Kansas,Republic,35,17,94,17,17
+Kansas,Rice,32,17,94,18,28
+Kansas,Riley,21,13,92,18,23
+Kansas,Rooks,32,17,85,19,29
+Kansas,Rush,29,16,96,22,21
+Kansas,Russell,35,17,91,21,26
+Kansas,Saline,59,15,86,28,32
+Kansas,Scott,45,17,92,14,5
+Kansas,Sedgwick,57,15,87,20,33
+Kansas,Seward,97,25,86,22,30
+Kansas,Shawnee,54,14,86,26,39
+Kansas,Sherman,46,17,90,26,29
+Kansas,Stafford,36,21,94,21,19
+Kansas,Stanton,73,26,96,18,11
+Kansas,Stevens,64,21,95,19,12
+Kansas,Sumner,39,14,95,16,22
+Kansas,Thomas,30,14,91,12,26
+Kansas,Wabaunsee,25,13,95,13,19
+Kansas,Washington,18,18,97,16,8
+Kansas,Wichita,64,22,87,22,29
+Kansas,Wilson,55,16,90,25,38
+Kansas,Woodson,49,18,95,28,37
+Kansas,Wyandotte,85,21,80,35,44
+Kentucky,Adair,50,23,80,35,25
+Kentucky,Allen,55,17,82,31,36
+Kentucky,Anderson,49,14,89,18,32
+Kentucky,Ballard,45,17,86,23,20
+Kentucky,Barren,64,17,88,29,29
+Kentucky,Bath,78,19,81,38,33
+Kentucky,Bell,69,20,76,42,36
+Kentucky,Boone,34,12,82,12,22
+Kentucky,Bourbon,51,19,79,25,35
+Kentucky,Boyd,58,16,83,28,39
+Kentucky,Boyle,48,17,80,23,37
+Kentucky,Bracken,52,17,77,25,28
+Kentucky,Breathitt,53,20,68,39,36
+Kentucky,Breckinridge,48,19,85,30,26
+Kentucky,Bullitt,35,15,81,15,30
+Kentucky,Butler,53,20,73,29,27
+Kentucky,Caldwell,59,17,84,29,19
+Kentucky,Calloway,26,19,90,23,24
+Kentucky,Campbell,43,13,72,17,30
+Kentucky,Carlisle,39,19,74,25,20
+Kentucky,Carroll,88,18,72,37,50
+Kentucky,Carter,55,19,74,34,24
+Kentucky,Casey,57,24,75,41,21
+Kentucky,Christian,83,18,76,29,39
+Kentucky,Clark,54,16,75,26,32
+Kentucky,Clay,64,22,65,49,31
+Kentucky,Clinton,73,21,72,38,36
+Kentucky,Crittenden,49,21,72,32,23
+Kentucky,Cumberland,66,21,70,40,28
+Kentucky,Daviess,54,15,89,25,35
+Kentucky,Edmonson,50,22,79,30,30
+Kentucky,Elliott,59,21,74,36,42
+Kentucky,Estill,72,20,72,42,26
+Kentucky,Fayette,41,16,78,24,35
+Kentucky,Fleming,46,20,69,31,20
+Kentucky,Floyd,68,20,80,44,37
+Kentucky,Franklin,51,16,77,23,37
+Kentucky,Fulton,64,19,71,42,40
+Kentucky,Gallatin,88,19,71,25,27
+Kentucky,Garrard,48,20,73,26,24
+Kentucky,Grant,67,17,71,26,32
+Kentucky,Graves,56,19,83,29,23
+Kentucky,Grayson,60,19,81,32,24
+Kentucky,Green,51,22,91,32,32
+Kentucky,Greenup,46,16,83,24,26
+Kentucky,Hancock,49,14,86,20,29
+Kentucky,Hardin,53,15,83,23,33
+Kentucky,Harlan,78,20,65,39,32
+Kentucky,Harrison,67,17,84,24,28
+Kentucky,Hart,59,22,60,37,31
+Kentucky,Henderson,65,15,86,22,32
+Kentucky,Henry,56,17,82,25,37
+Kentucky,Hickman,39,20,79,31,30
+Kentucky,Hopkins,66,18,74,30,38
+Kentucky,Jackson,62,21,72,40,34
+Kentucky,Jefferson,51,14,71,24,41
+Kentucky,Jessamine,43,17,75,24,29
+Kentucky,Johnson,52,19,79,33,30
+Kentucky,Kenton,53,14,79,18,29
+Kentucky,Knott,46,19,64,34,41
+Kentucky,Knox,88,21,74,45,37
+Kentucky,Larue,53,18,83,30,31
+Kentucky,Laurel,68,20,74,33,31
+Kentucky,Lawrence,57,20,58,30,31
+Kentucky,Lee,63,22,75,52,36
+Kentucky,Leslie,57,20,71,36,18
+Kentucky,Letcher,61,19,70,33,29
+Kentucky,Lewis,75,21,84,40,25
+Kentucky,Lincoln,69,20,82,34,28
+Kentucky,Livingston,46,17,89,23,24
+Kentucky,Logan,67,18,85,28,28
+Kentucky,Lyon,41,23,90,21,27
+Kentucky,McCracken,52,15,77,26,34
+Kentucky,McCreary,74,22,73,49,36
+Kentucky,McLean,55,18,92,24,35
+Kentucky,Madison,33,18,77,25,33
+Kentucky,Magoffin,75,19,76,41,26
+Kentucky,Marion,57,19,84,26,34
+Kentucky,Marshall,47,15,82,19,24
+Kentucky,Martin,69,20,69,42,30
+Kentucky,Mason,68,17,83,34,36
+Kentucky,Meade,39,16,87,22,25
+Kentucky,Menifee,55,22,78,43,11
+Kentucky,Mercer,59,17,82,23,26
+Kentucky,Metcalfe,63,20,63,36,29
+Kentucky,Monroe,63,22,83,39,41
+Kentucky,Montgomery,74,17,68,27,31
+Kentucky,Morgan,49,22,75,39,32
+Kentucky,Muhlenberg,59,18,77,30,29
+Kentucky,Nelson,50,15,100,22,29
+Kentucky,Nicholas,73,21,84,29,23
+Kentucky,Ohio,66,18,83,30,29
+Kentucky,Oldham,17,10,94,9,18
+Kentucky,Owen,59,18,72,25,28
+Kentucky,Owsley,73,19,85,54,21
+Kentucky,Pendleton,46,17,73,23,25
+Kentucky,Perry,65,19,84,38,43
+Kentucky,Pike,56,18,76,37,27
+Kentucky,Powell,90,20,76,40,35
+Kentucky,Pulaski,67,20,80,29,31
+Kentucky,Robertson,37,21,79,33,37
+Kentucky,Rockcastle,62,20,83,35,24
+Kentucky,Rowan,23,20,74,32,35
+Kentucky,Russell,77,21,83,37,29
+Kentucky,Scott,42,13,78,16,27
+Kentucky,Shelby,49,17,76,18,27
+Kentucky,Simpson,70,17,75,25,34
+Kentucky,Taylor,52,18,89,35,41
+Kentucky,Todd,42,22,85,35,29
+Kentucky,Trigg,48,18,83,25,25
+Kentucky,Trimble,41,17,67,20,17
+Kentucky,Union,50,17,76,27,31
+Kentucky,Warren,38,17,85,26,33
+Kentucky,Washington,44,19,81,25,27
+Kentucky,Wayne,76,21,77,41,27
+Kentucky,Webster,63,19,85,22,27
+Kentucky,Whitley,62,19,81,38,34
+Kentucky,Wolfe,93,19,66,48,42
+Kentucky,Woodford,29,14,93,17,29
+Louisiana,Acadia,67,20,68,30,37
+Louisiana,Allen,76,24,72,27,30
+Louisiana,Ascension,45,16,76,19,27
+Louisiana,Assumption,48,20,57,23,39
+Louisiana,Avoyelles,79,22,53,30,48
+Louisiana,Beauregard,58,20,85,22,32
+Louisiana,Bienville,65,20,86,36,43
+Louisiana,Bossier,55,17,76,22,33
+Louisiana,Caddo,67,19,58,31,54
+Louisiana,Calcasieu,60,18,77,24,34
+Louisiana,Caldwell,60,24,82,31,34
+Louisiana,Cameron,27,23,84,19,16
+Louisiana,Catahoula,76,24,69,37,38
+Louisiana,Claiborne,61,24,71,41,57
+Louisiana,Concordia,76,23,66,44,53
+Louisiana,De Soto,66,20,76,31,47
+Louisiana,East Baton Rouge,43,17,63,26,47
+Louisiana,East Carroll,82,25,67,54,69
+Louisiana,East Feliciana,56,20,64,26,42
+Louisiana,Evangeline,70,21,55,32,36
+Louisiana,Franklin,80,24,60,43,50
+Louisiana,Grant,62,19,70,24,33
+Louisiana,Iberia,71,20,77,35,48
+Louisiana,Iberville,66,20,46,29,52
+Louisiana,Jackson,63,19,73,27,30
+Louisiana,Jefferson,48,20,62,25,39
+Louisiana,Jefferson Davis,63,20,85,27,33
+Louisiana,Lafayette,44,18,71,22,37
+Louisiana,Lafourche,47,19,72,20,34
+Louisiana,La Salle,65,21,70,21,26
+Louisiana,Lincoln,30,21,73,32,46
+Louisiana,Livingston,52,19,75,17,30
+Louisiana,Madison,90,24,65,50,64
+Louisiana,Morehouse,68,22,55,41,52
+Louisiana,Natchitoches,52,21,57,34,48
+Louisiana,Orleans,55,27,66,41,60
+Louisiana,Ouachita,58,21,67,28,47
+Louisiana,Plaquemines,40,21,79,19,27
+Louisiana,Pointe Coupee,62,20,50,28,37
+Louisiana,Rapides,63,19,67,29,42
+Louisiana,Red River,75,22,57,33,43
+Louisiana,Richland,68,24,60,40,37
+Louisiana,Sabine,59,24,81,34,38
+Louisiana,St. Bernard,50,35,74,29,40
+Louisiana,St. Charles,40,16,79,18,38
+Louisiana,St. Helena,49,23,51,39,50
+Louisiana,St. James,47,17,74,24,44
+Louisiana,St. John the Baptist,54,18,61,29,45
+Louisiana,St. Landry,73,21,63,36,43
+Louisiana,St. Martin,58,21,72,34,44
+Louisiana,St. Mary,72,21,68,32,46
+Louisiana,St. Tammany,34,17,76,14,26
+Louisiana,Tangipahoa,59,20,68,30,41
+Louisiana,Tensas,72,28,65,50,61
+Louisiana,Terrebonne,66,20,66,26,39
+Louisiana,Union,64,21,56,34,45
+Louisiana,Vermilion,56,22,81,26,32
+Louisiana,Vernon,76,20,79,21,28
+Louisiana,Washington,73,23,74,37,48
+Louisiana,Webster,64,21,68,32,48
+Louisiana,West Baton Rouge,53,18,70,22,43
+Louisiana,West Carroll,62,24,67,33,37
+Louisiana,West Feliciana,42,24,72,19,32
+Louisiana,Winn,60,25,64,33,40
+Maine,Androscoggin,39,13,73,20,35
+Maine,Aroostook,28,14,85,20,31
+Maine,Cumberland,17,11,85,14,28
+Maine,Franklin,21,13,89,22,34
+Maine,Hancock,22,14,83,20,32
+Maine,Kennebec,27,12,82,17,35
+Maine,Knox,32,14,84,20,36
+Maine,Lincoln,25,15,83,21,29
+Maine,Oxford,30,14,80,23,32
+Maine,Penobscot,25,12,82,21,30
+Maine,Piscataquis,30,14,83,27,27
+Maine,Sagadahoc,24,11,83,15,29
+Maine,Somerset,41,13,86,26,34
+Maine,Waldo,33,13,84,23,37
+Maine,Washington,36,17,84,31,30
+Maine,York,21,12,85,14,28
+Maryland,Allegany,35,15,86,24,32
+Maryland,Anne Arundel,26,11,82,9,25
+Maryland,Baltimore,27,12,80,11,35
+Maryland,Calvert,24,10,91,8,22
+Maryland,Caroline,54,17,77,19,30
+Maryland,Carroll,20,10,90,7,18
+Maryland,Cecil,41,12,80,15,25
+Maryland,Charles,29,11,85,9,32
+Maryland,Dorchester,62,15,78,26,47
+Maryland,Frederick,23,11,91,8,21
+Maryland,Garrett,31,15,92,24,24
+Maryland,Harford,23,9,85,9,24
+Maryland,Howard,13,8,89,6,20
+Maryland,Kent,28,17,83,20,36
+Maryland,Montgomery,20,12,85,9,23
+Maryland,Prince George's,38,16,73,12,43
+Maryland,Queen Anne's,23,12,87,10,26
+Maryland,St. Mary's,35,11,80,11,27
+Maryland,Somerset,32,21,80,29,51
+Maryland,Talbot,36,15,87,15,30
+Maryland,Washington,50,13,88,17,32
+Maryland,Wicomico,44,16,79,23,39
+Maryland,Worcester,35,16,90,20,32
+Maryland,Baltimore City,69,17,61,34,65
+Massachusetts,Barnstable,18,5,84,16,28
+Massachusetts,Berkshire,27,5,83,19,35
+Massachusetts,Bristol,29,6,82,17,35
+Massachusetts,Dukes,12,6,93,12,26
+Massachusetts,Essex,26,5,80,15,31
+Massachusetts,Franklin,22,4,78,16,32
+Massachusetts,Hampden,46,5,70,26,43
+Massachusetts,Hampshire,7,4,86,12,27
+Massachusetts,Middlesex,13,5,88,9,21
+Massachusetts,Nantucket,18,7,87,10,22
+Massachusetts,Norfolk,8,3,90,7,19
+Massachusetts,Plymouth,20,4,86,11,25
+Massachusetts,Suffolk,30,7,62,30,53
+Massachusetts,Worcester,24,5,84,14,27
+Michigan,Alcona,29,16,87,33,25
+Michigan,Alger,28,16,83,22,34
+Michigan,Allegan,35,14,82,18,23
+Michigan,Alpena,27,14,76,27,30
+Michigan,Antrim,37,15,89,27,31
+Michigan,Arenac,33,16,85,32,28
+Michigan,Baraga,43,18,77,23,34
+Michigan,Barry,31,12,87,16,24
+Michigan,Bay,36,13,80,23,33
+Michigan,Benzie,27,15,85,21,23
+Michigan,Berrien,48,16,81,29,37
+Michigan,Branch,50,16,87,28,28
+Michigan,Calhoun,53,14,75,25,42
+Michigan,Cass,43,15,70,24,26
+Michigan,Charlevoix,31,14,84,23,26
+Michigan,Cheboygan,35,17,85,28,32
+Michigan,Chippewa,30,20,77,26,32
+Michigan,Clare,49,17,75,43,32
+Michigan,Clinton,20,10,91,11,20
+Michigan,Crawford,47,16,68,28,41
+Michigan,Delta,24,14,89,21,29
+Michigan,Dickinson,32,10,87,18,23
+Michigan,Eaton,28,11,81,15,29
+Michigan,Emmet,21,16,90,17,26
+Michigan,Genesee,47,12,71,31,41
+Michigan,Gladwin,39,15,79,31,27
+Michigan,Gogebic,30,17,77,31,27
+Michigan,Grand Traverse,26,14,86,16,26
+Michigan,Gratiot,32,16,83,26,30
+Michigan,Hillsdale,38,16,78,28,27
+Michigan,Houghton,19,15,91,21,19
+Michigan,Huron,23,14,89,23,27
+Michigan,Ingham,27,14,75,24,35
+Michigan,Ionia,41,15,83,21,31
+Michigan,Iosco,31,15,83,37,31
+Michigan,Iron,30,14,82,27,27
+Michigan,Isabella,16,16,83,23,30
+Michigan,Jackson,50,13,76,30,32
+Michigan,Kalamazoo,31,13,73,25,35
+Michigan,Kalkaska,52,16,79,29,33
+Michigan,Kent,41,14,75,23,31
+Michigan,Lake,61,19,52,45,44
+Michigan,Lapeer,24,13,84,18,22
+Michigan,Leelanau,14,14,89,15,18
+Michigan,Lenawee,37,14,82,19,28
+Michigan,Livingston,13,10,84,8,17
+Michigan,Luce,42,21,81,29,29
+Michigan,Mackinac,23,17,80,23,34
+Michigan,Macomb,21,14,76,17,25
+Michigan,Manistee,38,15,81,26,28
+Michigan,Marquette,16,13,86,16,22
+Michigan,Mason,36,15,81,28,28
+Michigan,Mecosta,26,15,78,29,31
+Michigan,Menominee,41,13,77,22,30
+Michigan,Midland,23,11,82,15,24
+Michigan,Missaukee,37,16,90,26,25
+Michigan,Monroe,29,12,80,17,25
+Michigan,Montcalm,45,16,83,30,32
+Michigan,Montmorency,28,16,78,39,35
+Michigan,Muskegon,52,14,71,29,35
+Michigan,Newaygo,45,16,77,29,26
+Michigan,Oakland,18,12,80,13,24
+Michigan,Oceana,52,18,85,33,28
+Michigan,Ogemaw,40,16,75,31,32
+Michigan,Ontonagon,19,15,86,27,27
+Michigan,Osceola,40,15,81,29,26
+Michigan,Oscoda,41,18,79,36,28
+Michigan,Otsego,33,13,80,22,22
+Michigan,Ottawa,22,12,86,13,18
+Michigan,Presque Isle,22,16,89,26,30
+Michigan,Roscommon,32,15,67,39,47
+Michigan,Saginaw,42,13,74,27,40
+Michigan,St. Clair,33,13,78,22,27
+Michigan,St. Joseph,57,16,79,26,28
+Michigan,Sanilac,33,16,87,26,24
+Michigan,Schoolcraft,31,17,84,26,25
+Michigan,Shiawassee,34,14,84,22,33
+Michigan,Tuscola,32,15,84,24,27
+Michigan,Van Buren,47,16,76,23,28
+Michigan,Washtenaw,13,10,85,13,26
+Michigan,Wayne,47,17,70,35,47
+Michigan,Wexford,54,15,80,27,29
+Minnesota,Aitkin,32,14,81,24,33
+Minnesota,Anoka,22,9,76,10,24
+Minnesota,Becker,33,13,85,23,28
+Minnesota,Beltrami,55,14,59,30,38
+Minnesota,Benton,35,11,85,13,24
+Minnesota,Big Stone,15,13,97,16,18
+Minnesota,Blue Earth,17,11,81,15,25
+Minnesota,Brown,21,9,82,12,23
+Minnesota,Carlton,31,11,84,13,27
+Minnesota,Carver,12,7,80,6,15
+Minnesota,Cass,52,14,63,27,32
+Minnesota,Chippewa,37,11,74,15,29
+Minnesota,Chisago,24,9,79,9,22
+Minnesota,Clay,16,11,78,15,26
+Minnesota,Clearwater,43,16,80,25,34
+Minnesota,Cook,23,14,91,16,27
+Minnesota,Cottonwood,26,11,80,16,27
+Minnesota,Crow Wing,35,12,71,18,26
+Minnesota,Dakota,19,9,82,9,23
+Minnesota,Dodge,26,10,90,9,22
+Minnesota,Douglas,22,11,79,13,19
+Minnesota,Faribault,30,12,79,18,28
+Minnesota,Fillmore,19,14,91,19,23
+Minnesota,Freeborn,44,13,77,17,27
+Minnesota,Goodhue,28,10,82,12,26
+Minnesota,Grant,21,12,96,16,31
+Minnesota,Hennepin,31,10,65,19,31
+Minnesota,Houston,16,10,77,13,26
+Minnesota,Hubbard,32,12,77,20,32
+Minnesota,Isanti,29,11,73,12,22
+Minnesota,Itasca,32,11,78,19,23
+Minnesota,Jackson,18,10,92,15,15
+Minnesota,Kanabec,34,13,88,20,26
+Minnesota,Kandiyohi,47,11,74,22,30
+Minnesota,Koochiching,27,12,81,22,27
+Minnesota,Lac qui Parle,19,11,98,15,18
+Minnesota,Lake,25,11,83,16,23
+Minnesota,Lake of the Woods,18,14,98,19,32
+Minnesota,Le Sueur,24,10,77,12,25
+Minnesota,Lincoln,15,12,73,15,22
+Minnesota,Lyon,22,12,88,14,23
+Minnesota,McLeod,33,9,80,12,23
+Minnesota,Mahnomen,97,14,69,34,44
+Minnesota,Marshall,26,13,87,13,21
+Minnesota,Martin,35,11,82,18,26
+Minnesota,Meeker,31,11,89,12,23
+Minnesota,Mille Lacs,38,14,78,18,30
+Minnesota,Morrison,30,13,83,18,24
+Minnesota,Mower,46,12,80,16,30
+Minnesota,Murray,27,12,92,13,20
+Minnesota,Nicollet,16,10,87,11,25
+Minnesota,Nobles,58,15,77,19,30
+Minnesota,Norman,23,14,93,18,19
+Minnesota,Olmsted,27,8,80,11,24
+Minnesota,Otter Tail,24,12,78,19,24
+Minnesota,Pennington,31,11,86,15,27
+Minnesota,Pine,40,14,76,22,33
+Minnesota,Pipestone,35,12,85,16,21
+Minnesota,Polk,34,11,81,16,27
+Minnesota,Pope,16,11,87,15,20
+Minnesota,Ramsey,38,12,67,25,36
+Minnesota,Red Lake,28,13,83,16,23
+Minnesota,Redwood,26,12,87,14,23
+Minnesota,Renville,33,12,85,17,26
+Minnesota,Rice,21,11,75,12,26
+Minnesota,Rock,25,11,86,14,23
+Minnesota,Roseau,29,11,95,13,26
+Minnesota,St. Louis,23,11,77,22,34
+Minnesota,Scott,18,8,83,6,16
+Minnesota,Sherburne,21,9,86,8,16
+Minnesota,Sibley,33,12,87,15,24
+Minnesota,Stearns,18,10,80,13,24
+Minnesota,Steele,35,9,83,14,31
+Minnesota,Stevens,8,10,96,11,17
+Minnesota,Swift,30,12,86,14,23
+Minnesota,Todd,34,13,68,25,20
+Minnesota,Wabasha,23,11,88,11,19
+Minnesota,Wadena,39,12,86,24,23
+Minnesota,Waseca,30,10,83,15,24
+Minnesota,Washington,15,7,88,7,19
+Minnesota,Watonwan,52,15,82,17,35
+Minnesota,Wilkin,18,10,78,14,25
+Minnesota,Winona,13,10,83,15,21
+Minnesota,Wright,23,10,87,7,20
+Minnesota,Yellow Medicine,27,11,91,18,25
+Mississippi,Adams,65,21,47,42,55
+Mississippi,Alcorn,77,21,76,32,35
+Mississippi,Amite,55,22,54,35,56
+Mississippi,Attala,71,22,77,35,41
+Mississippi,Benton,81,22,70,38,31
+Mississippi,Bolivar,75,22,71,52,59
+Mississippi,Calhoun,78,23,84,32,43
+Mississippi,Carroll,48,23,72,28,46
+Mississippi,Chickasaw,98,24,59,35,52
+Mississippi,Choctaw,42,23,73,38,34
+Mississippi,Claiborne,44,21,78,51,72
+Mississippi,Clarke,58,22,81,39,47
+Mississippi,Clay,69,23,59,41,53
+Mississippi,Coahoma,92,22,64,55,73
+Mississippi,Copiah,67,21,75,36,46
+Mississippi,Covington,75,21,66,33,36
+Mississippi,DeSoto,48,18,79,15,30
+Mississippi,Forrest,57,21,70,37,44
+Mississippi,Franklin,48,22,59,31,30
+Mississippi,George,94,22,68,26,22
+Mississippi,Greene,63,26,77,27,29
+Mississippi,Grenada,70,21,68,33,55
+Mississippi,Hancock,59,22,77,30,30
+Mississippi,Harrison,65,21,78,30,40
+Mississippi,Hinds,63,18,67,34,58
+Mississippi,Holmes,85,23,60,53,70
+Mississippi,Humphreys,113,23,77,61,67
+Mississippi,Itawamba,47,20,71,26,27
+Mississippi,Jackson,60,20,78,25,36
+Mississippi,Jasper,57,21,73,30,44
+Mississippi,Jefferson,72,23,61,52,75
+Mississippi,Jefferson Davis,69,21,64,40,49
+Mississippi,Jones,79,23,73,35,39
+Mississippi,Kemper,47,26,59,37,51
+Mississippi,Lafayette,24,20,75,22,37
+Mississippi,Lamar,49,19,78,22,24
+Mississippi,Lauderdale,65,19,66,35,52
+Mississippi,Lawrence,59,21,63,27,39
+Mississippi,Leake,74,23,70,39,39
+Mississippi,Lee,73,20,68,31,43
+Mississippi,Leflore,84,23,61,51,68
+Mississippi,Lincoln,62,20,79,26,39
+Mississippi,Lowndes,62,21,70,37,44
+Mississippi,Madison,43,15,77,17,31
+Mississippi,Marion,82,22,73,37,42
+Mississippi,Marshall,71,23,70,37,44
+Mississippi,Monroe,67,21,77,35,44
+Mississippi,Montgomery,69,22,76,35,48
+Mississippi,Neshoba,93,23,77,33,49
+Mississippi,Newton,56,21,78,32,40
+Mississippi,Noxubee,78,26,63,47,62
+Mississippi,Oktibbeha,31,22,68,31,44
+Mississippi,Panola,93,22,69,39,55
+Mississippi,Pearl River,58,23,73,32,30
+Mississippi,Perry,66,20,78,33,39
+Mississippi,Pike,76,21,63,41,46
+Mississippi,Pontotoc,70,21,81,25,34
+Mississippi,Prentiss,55,22,82,31,33
+Mississippi,Quitman,80,24,66,53,56
+Mississippi,Rankin,49,17,81,20,32
+Mississippi,Scott,91,25,67,32,46
+Mississippi,Sharkey,73,22,74,59,66
+Mississippi,Simpson,75,22,75,34,42
+Mississippi,Smith,58,21,78,31,35
+Mississippi,Stone,56,22,81,28,36
+Mississippi,Sunflower,91,25,65,54,66
+Mississippi,Tallahatchie,86,25,51,44,60
+Mississippi,Tate,60,20,78,26,43
+Mississippi,Tippah,79,23,70,32,43
+Mississippi,Tishomingo,65,22,77,27,26
+Mississippi,Tunica,116,19,50,43,67
+Mississippi,Union,74,20,81,29,28
+Mississippi,Walthall,64,23,81,39,36
+Mississippi,Warren,71,18,52,34,52
+Mississippi,Washington,90,21,60,57,67
+Mississippi,Wayne,77,23,70,36,38
+Mississippi,Webster,74,22,69,34,36
+Mississippi,Wilkinson,69,25,60,42,52
+Mississippi,Winston,67,22,70,44,46
+Mississippi,Yalobusha,91,21,64,38,48
+Mississippi,Yazoo,93,26,59,51,60
+Missouri,Adair,17,18,90,24,25
+Missouri,Andrew,32,14,88,14,22
+Missouri,Atchison,28,17,93,15,21
+Missouri,Audrain,55,18,85,28,25
+Missouri,Barry,72,19,89,29,26
+Missouri,Barton,51,18,88,27,25
+Missouri,Bates,55,18,89,23,23
+Missouri,Benton,49,20,81,35,25
+Missouri,Bollinger,53,18,91,30,16
+Missouri,Boone,23,13,86,17,29
+Missouri,Buchanan,62,15,89,23,38
+Missouri,Butler,80,18,82,31,37
+Missouri,Caldwell,42,16,96,20,22
+Missouri,Callaway,39,15,85,19,28
+Missouri,Camden,50,17,87,27,37
+Missouri,Cape Girardeau,37,15,83,20,33
+Missouri,Carroll,43,18,97,23,25
+Missouri,Carter,66,22,80,38,40
+Missouri,Cass,34,13,89,12,26
+Missouri,Cedar,58,19,83,33,28
+Missouri,Chariton,27,17,92,19,30
+Missouri,Christian,38,15,91,17,20
+Missouri,Clark,41,19,90,26,18
+Missouri,Clay,36,12,88,13,26
+Missouri,Clinton,40,14,88,16,26
+Missouri,Cole,37,13,86,15,30
+Missouri,Cooper,46,18,94,22,25
+Missouri,Crawford,70,19,72,29,33
+Missouri,Dade,51,18,92,34,28
+Missouri,Dallas,55,20,85,31,26
+Missouri,Daviess,45,21,91,29,24
+Missouri,DeKalb,45,21,94,16,22
+Missouri,Dent,56,20,91,30,21
+Missouri,Douglas,55,19,96,38,23
+Missouri,Dunklin,94,19,81,40,45
+Missouri,Franklin,39,15,87,19,25
+Missouri,Gasconade,44,17,90,20,25
+Missouri,Gentry,42,20,94,21,28
+Missouri,Greene,44,17,86,24,32
+Missouri,Grundy,56,18,84,27,25
+Missouri,Harrison,61,19,88,27,30
+Missouri,Henry,50,17,82,27,27
+Missouri,Hickory,62,22,91,41,30
+Missouri,Holt,40,18,91,22,24
+Missouri,Howard,20,17,86,21,25
+Missouri,Howell,68,20,84,33,29
+Missouri,Iron,60,19,92,32,28
+Missouri,Jackson,60,17,84,24,42
+Missouri,Jasper,68,18,84,23,35
+Missouri,Jefferson,34,14,90,16,25
+Missouri,Johnson,31,17,88,20,24
+Missouri,Knox,34,23,94,33,23
+Missouri,Laclede,72,19,84,29,30
+Missouri,Lafayette,46,15,90,17,22
+Missouri,Lawrence,58,19,85,26,38
+Missouri,Lewis,25,18,91,25,21
+Missouri,Lincoln,42,15,86,15,24
+Missouri,Linn,47,16,90,24,18
+Missouri,Livingston,56,17,88,24,33
+Missouri,McDonald,83,21,89,30,31
+Missouri,Macon,50,18,91,24,23
+Missouri,Madison,61,19,82,29,34
+Missouri,Maries,48,19,88,23,31
+Missouri,Marion,50,15,87,22,35
+Missouri,Mercer,38,19,92,21,44
+Missouri,Miller,63,21,90,31,27
+Missouri,Mississippi,93,20,89,39,39
+Missouri,Moniteau,45,19,87,20,25
+Missouri,Monroe,35,17,90,24,28
+Missouri,Montgomery,47,18,88,27,34
+Missouri,Morgan,58,22,93,34,28
+Missouri,New Madrid,80,17,85,36,39
+Missouri,Newton,57,18,87,24,27
+Missouri,Nodaway,14,15,94,15,22
+Missouri,Oregon,54,21,96,36,25
+Missouri,Osage,32,16,93,14,19
+Missouri,Ozark,47,22,94,40,32
+Missouri,Pemiscot,110,17,80,48,50
+Missouri,Perry,46,16,75,18,21
+Missouri,Pettis,66,19,93,25,28
+Missouri,Phelps,48,18,87,22,27
+Missouri,Pike,50,20,90,24,30
+Missouri,Platte,25,9,88,9,28
+Missouri,Polk,41,20,91,30,25
+Missouri,Pulaski,38,17,91,17,24
+Missouri,Putnam,38,19,90,27,29
+Missouri,Ralls,34,15,91,16,15
+Missouri,Randolph,58,19,86,25,40
+Missouri,Ray,43,14,90,16,25
+Missouri,Reynolds,51,19,92,36,33
+Missouri,Ripley,67,20,80,43,35
+Missouri,St. Charles,20,9,92,7,19
+Missouri,St. Clair,50,21,85,34,28
+Missouri,Ste. Genevieve,29,14,91,17,25
+Missouri,St. Francois,67,17,90,25,25
+Missouri,St. Louis,27,11,88,14,34
+Missouri,Saline,42,19,85,27,38
+Missouri,Schuyler,36,20,79,32,28
+Missouri,Scotland,18,22,86,27,13
+Missouri,Scott,70,17,91,28,38
+Missouri,Shannon,62,21,97,42,24
+Missouri,Shelby,27,19,87,24,28
+Missouri,Stoddard,51,19,90,27,31
+Missouri,Stone,54,19,91,31,33
+Missouri,Sullivan,73,21,94,25,41
+Missouri,Taney,58,22,91,31,30
+Missouri,Texas,60,21,89,33,31
+Missouri,Vernon,47,19,86,27,37
+Missouri,Warren,45,15,88,20,24
+Missouri,Washington,79,19,87,35,35
+Missouri,Wayne,66,20,89,39,23
+Missouri,Webster,48,19,88,29,23
+Missouri,Wright,81,21,96,35,34
+Missouri,St. Louis City,71,19,62,41,65
+Montana,Beaverhead,22,25,79,25,25
+Montana,Big Horn,96,28,73,34,47
+Montana,Blaine,79,30,72,39,43
+Montana,Broadwater,38,23,83,18,9
+Montana,Carbon,16,23,87,17,27
+Montana,Cascade,49,20,79,21,27
+Montana,Custer,39,21,72,21,24
+Montana,Dawson,33,21,90,16,23
+Montana,Deer Lodge,37,21,78,28,40
+Montana,Fallon,37,22,100,13,27
+Montana,Fergus,17,24,84,20,24
+Montana,Flathead,36,22,89,21,27
+Montana,Gallatin,18,19,88,14,19
+Montana,Glacier,90,29,82,38,43
+Montana,Hill,63,25,78,26,25
+Montana,Jefferson,21,16,68,13,16
+Montana,Lake,54,27,69,31,41
+Montana,Lewis and Clark,35,17,83,15,24
+Montana,Lincoln,33,26,90,33,20
+Montana,Mineral,38,23,100,29,29
+Montana,Missoula,25,21,83,19,27
+Montana,Musselshell,32,28,100,32,18
+Montana,Park,24,23,80,21,26
+Montana,Phillips,23,30,86,22,27
+Montana,Pondera,42,27,82,28,22
+Montana,Powell,35,27,69,24,34
+Montana,Ravalli,31,23,83,26,24
+Montana,Richland,32,21,88,15,24
+Montana,Roosevelt,96,26,74,38,40
+Montana,Rosebud,69,23,81,27,35
+Montana,Sanders,34,30,81,31,28
+Montana,Silver Bow,45,19,76,23,37
+Montana,Stillwater,19,18,79,14,17
+Montana,Sweet Grass,23,22,86,16,9
+Montana,Toole,27,27,82,19,16
+Montana,Valley,36,25,100,21,21
+Montana,Yellowstone,40,20,78,17,28
+Nebraska,Adams,38,14,84,18,20
+Nebraska,Antelope,12,16,100,23,22
+Nebraska,Boone,17,14,94,13,12
+Nebraska,Box Butte,39,13,82,20,38
+Nebraska,Buffalo,23,13,87,15,25
+Nebraska,Burt,21,14,93,17,19
+Nebraska,Butler,14,13,91,12,23
+Nebraska,Cass,20,11,93,11,19
+Nebraska,Cedar,12,14,91,15,12
+Nebraska,Chase,46,16,96,16,31
+Nebraska,Cherry,35,21,95,26,20
+Nebraska,Cheyenne,39,12,88,15,19
+Nebraska,Clay,20,15,94,16,18
+Nebraska,Colfax,79,19,90,15,23
+Nebraska,Cuming,24,17,91,13,19
+Nebraska,Custer,25,15,92,21,13
+Nebraska,Dakota,56,19,86,20,31
+Nebraska,Dawes,19,19,82,21,22
+Nebraska,Dawson,65,19,85,18,33
+Nebraska,Dixon,26,15,89,15,22
+Nebraska,Dodge,37,13,85,19,29
+Nebraska,Douglas,46,14,80,21,32
+Nebraska,Fillmore,20,13,92,14,19
+Nebraska,Furnas,31,16,87,21,24
+Nebraska,Gage,29,13,87,18,27
+Nebraska,Hall,67,16,85,19,37
+Nebraska,Hamilton,20,11,90,11,18
+Nebraska,Holt,25,17,96,19,14
+Nebraska,Howard,19,14,97,15,14
+Nebraska,Jefferson,31,13,96,20,23
+Nebraska,Johnson,26,18,89,16,4
+Nebraska,Kearney,22,12,87,13,18
+Nebraska,Keith,37,16,85,20,21
+Nebraska,Kimball,43,15,93,21,27
+Nebraska,Knox,27,17,94,22,25
+Nebraska,Lancaster,30,12,81,18,25
+Nebraska,Lincoln,44,12,84,18,27
+Nebraska,Madison,47,15,80,18,18
+Nebraska,Merrick,19,15,87,16,19
+Nebraska,Morrill,30,17,71,24,29
+Nebraska,Nemaha,26,13,92,16,25
+Nebraska,Nuckolls,30,14,85,21,32
+Nebraska,Otoe,36,11,89,16,20
+Nebraska,Phelps,25,12,93,13,14
+Nebraska,Pierce,16,15,99,13,13
+Nebraska,Platte,35,13,86,12,26
+Nebraska,Polk,22,13,94,12,19
+Nebraska,Red Willow,30,14,84,19,20
+Nebraska,Richardson,28,16,87,20,31
+Nebraska,Saline,36,14,82,13,33
+Nebraska,Sarpy,26,9,92,8,21
+Nebraska,Saunders,17,11,94,10,15
+Nebraska,Scotts Bluff,58,15,79,25,44
+Nebraska,Seward,12,10,94,9,10
+Nebraska,Sheridan,43,20,82,31,21
+Nebraska,Stanton,23,14,89,14,24
+Nebraska,Thayer,17,13,93,18,18
+Nebraska,Thurston,106,18,63,37,54
+Nebraska,Valley,20,17,93,20,17
+Nebraska,Washington,15,9,90,9,11
+Nebraska,Wayne,10,14,91,15,31
+Nebraska,York,26,13,85,15,20
+Nevada,Churchill,55,23,93,18,27
+Nevada,Clark,56,25,89,22,35
+Nevada,Douglas,20,19,90,15,26
+Nevada,Elko,50,24,92,11,22
+Nevada,Humboldt,53,24,95,15,31
+Nevada,Lander,41,22,95,12,21
+Nevada,Lincoln,14,27,52,18,25
+Nevada,Lyon,42,22,88,16,26
+Nevada,Mineral,42,23,77,25,33
+Nevada,Nye,46,23,95,28,36
+Nevada,Pershing,44,31,89,22,36
+Nevada,Washoe,48,24,89,20,32
+Nevada,White Pine,45,23,83,15,51
+Nevada,Carson City,60,25,98,22,41
+New Hampshire,Belknap,25,13,90,13,30
+New Hampshire,Carroll,19,15,88,17,32
+New Hampshire,Cheshire,18,13,86,13,27
+New Hampshire,Coos,33,15,84,21,31
+New Hampshire,Grafton,16,14,88,13,28
+New Hampshire,Hillsborough,22,12,84,11,27
+New Hampshire,Merrimack,19,12,85,11,28
+New Hampshire,Rockingham,12,11,90,7,18
+New Hampshire,Strafford,18,12,79,12,25
+New Hampshire,Sullivan,38,14,83,15,26
+New Jersey,Atlantic,40,16,83,19,37
+New Jersey,Bergen,8,13,97,8,18
+New Jersey,Burlington,21,11,96,8,25
+New Jersey,Camden,38,15,84,19,37
+New Jersey,Cape May,29,14,96,19,35
+New Jersey,Cumberland,75,19,79,26,44
+New Jersey,Essex,39,19,87,23,45
+New Jersey,Gloucester,18,11,93,9,24
+New Jersey,Hudson,39,23,79,24,44
+New Jersey,Hunterdon,4,7,91,4,14
+New Jersey,Mercer,26,13,94,16,32
+New Jersey,Middlesex,18,14,82,10,23
+New Jersey,Monmouth,16,12,100,9,20
+New Jersey,Morris,7,9,95,6,14
+New Jersey,Ocean,22,13,89,19,20
+New Jersey,Passaic,41,20,81,24,35
+New Jersey,Salem,38,13,77,17,34
+New Jersey,Somerset,12,9,94,6,14
+New Jersey,Sussex,9,10,96,7,18
+New Jersey,Union,27,17,86,16,32
+New Jersey,Warren,16,12,92,9,24
+New Mexico,Bernalillo,59,20,65,24,38
+New Mexico,Catron,33,32,97,42,42
+New Mexico,Chaves,80,25,75,33,40
+New Mexico,Cibola,73,24,72,39,48
+New Mexico,Colfax,56,21,74,28,41
+New Mexico,Curry,92,23,82,30,38
+New Mexico,De Baca,65,31,89,31,30
+New Mexico,Dona Ana,76,26,68,35,36
+New Mexico,Eddy,81,19,73,23,33
+New Mexico,Grant,68,21,81,30,40
+New Mexico,Guadalupe,60,31,85,31,44
+New Mexico,Hidalgo,68,29,81,39,50
+New Mexico,Lea,93,26,75,24,35
+New Mexico,Lincoln,50,28,77,34,36
+New Mexico,Los Alamos,10,5,88,3,24
+New Mexico,Luna,96,30,70,48,44
+New Mexico,McKinley,62,29,66,43,47
+New Mexico,Mora,39,25,82,33,41
+New Mexico,Otero,54,27,79,31,33
+New Mexico,Quay,70,25,73,38,37
+New Mexico,Rio Arriba,77,24,59,28,41
+New Mexico,Roosevelt,63,28,83,29,34
+New Mexico,Sandoval,41,19,73,18,33
+New Mexico,San Juan,66,27,64,35,38
+New Mexico,San Miguel,46,21,72,32,52
+New Mexico,Santa Fe,49,24,56,24,35
+New Mexico,Sierra,56,28,61,40,50
+New Mexico,Socorro,64,27,78,39,47
+New Mexico,Taos,50,28,75,29,53
+New Mexico,Torrance,44,26,67,34,39
+New Mexico,Union,51,26,95,27,36
+New Mexico,Valencia,61,23,64,33,39
+New York,Albany,19,9,79,17,36
+New York,Allegany,20,12,81,23,31
+New York,Bronx,49,17,60,42,64
+New York,Broome,25,11,82,23,37
+New York,Cattaraugus,33,13,76,22,33
+New York,Cayuga,27,12,73,19,31
+New York,Chautauqua,32,12,82,25,35
+New York,Chemung,39,11,73,23,39
+New York,Chenango,34,12,83,24,36
+New York,Clinton,22,13,79,19,31
+New York,Columbia,25,13,78,16,30
+New York,Cortland,20,12,77,20,31
+New York,Delaware,23,13,85,21,30
+New York,Dutchess,15,11,79,11,25
+New York,Erie,28,10,76,21,36
+New York,Essex,23,14,82,19,30
+New York,Franklin,34,18,75,22,32
+New York,Fulton,36,12,76,24,46
+New York,Genesee,24,10,84,17,29
+New York,Greene,24,14,81,21,31
+New York,Herkimer,31,12,79,23,30
+New York,Jefferson,44,13,80,21,31
+New York,Kings,33,16,64,33,41
+New York,Lewis,28,12,85,22,22
+New York,Livingston,12,11,83,17,27
+New York,Madison,18,11,83,16,31
+New York,Monroe,29,9,79,21,37
+New York,Montgomery,44,11,72,28,40
+New York,Nassau,12,11,91,8,18
+New York,New York,31,13,67,23,45
+New York,Niagara,28,10,83,20,35
+New York,Oneida,33,12,80,24,36
+New York,Onondaga,30,11,77,20,36
+New York,Ontario,21,10,86,15,27
+New York,Orange,24,12,83,17,22
+New York,Orleans,33,13,85,22,34
+New York,Oswego,29,11,76,24,31
+New York,Otsego,12,12,80,19,29
+New York,Putnam,6,8,91,6,14
+New York,Queens,26,19,69,22,33
+New York,Rensselaer,27,10,82,20,35
+New York,Richmond,20,10,75,17,25
+New York,Rockland,18,11,86,18,17
+New York,St. Lawrence,24,13,77,25,34
+New York,Saratoga,16,9,87,8,22
+New York,Schenectady,30,11,75,19,37
+New York,Schoharie,16,12,81,17,30
+New York,Schuyler,31,13,78,23,22
+New York,Seneca,29,14,77,22,33
+New York,Steuben,30,11,82,22,30
+New York,Suffolk,18,12,88,8,22
+New York,Sullivan,34,15,74,28,33
+New York,Tioga,31,10,84,16,26
+New York,Tompkins,8,11,82,15,26
+New York,Ulster,20,14,78,15,30
+New York,Warren,27,12,81,17,33
+New York,Washington,31,14,79,19,28
+New York,Wayne,32,11,82,16,30
+New York,Westchester,18,12,85,12,26
+New York,Wyoming,20,14,80,16,28
+New York,Yates,17,14,82,29,27
+North Carolina,Alamance,49,19,79,29,39
+North Carolina,Alexander,51,20,77,26,20
+North Carolina,Alleghany,49,24,81,34,39
+North Carolina,Anson,69,20,78,32,45
+North Carolina,Ashe,57,21,81,30,28
+North Carolina,Avery,33,26,81,34,32
+North Carolina,Beaufort,63,20,79,32,34
+North Carolina,Bertie,66,20,83,39,58
+North Carolina,Bladen,68,19,79,31,52
+North Carolina,Brunswick,54,19,81,26,32
+North Carolina,Buncombe,45,18,81,24,31
+North Carolina,Burke,61,21,89,27,30
+North Carolina,Cabarrus,50,16,86,17,27
+North Carolina,Caldwell,60,21,84,29,30
+North Carolina,Camden,31,16,92,13,23
+North Carolina,Carteret,41,18,82,24,35
+North Carolina,Caswell,43,18,76,30,43
+North Carolina,Catawba,56,19,86,23,31
+North Carolina,Chatham,46,18,77,22,27
+North Carolina,Cherokee,59,20,88,33,23
+North Carolina,Chowan,54,18,78,34,45
+North Carolina,Clay,45,20,85,32,20
+North Carolina,Cleveland,60,19,76,32,44
+North Carolina,Columbus,71,20,83,41,44
+North Carolina,Craven,72,17,81,25,38
+North Carolina,Cumberland,57,16,82,26,42
+North Carolina,Currituck,36,18,80,18,23
+North Carolina,Dare,36,19,91,24,34
+North Carolina,Davidson,55,19,80,26,31
+North Carolina,Davie,37,16,77,22,22
+North Carolina,Duplin,75,26,70,33,40
+North Carolina,Durham,47,18,80,24,40
+North Carolina,Edgecombe,73,18,78,39,50
+North Carolina,Forsyth,50,17,82,24,37
+North Carolina,Franklin,50,19,79,22,27
+North Carolina,Gaston,62,19,79,28,35
+North Carolina,Gates,43,17,82,24,43
+North Carolina,Graham,76,23,86,34,28
+North Carolina,Granville,41,19,73,20,34
+North Carolina,Greene,77,24,76,35,41
+North Carolina,Guilford,36,19,87,27,39
+North Carolina,Halifax,72,19,74,37,46
+North Carolina,Harnett,51,19,75,24,36
+North Carolina,Haywood,50,19,82,25,27
+North Carolina,Henderson,51,20,86,25,24
+North Carolina,Hertford,67,19,87,36,54
+North Carolina,Hoke,69,22,74,26,40
+North Carolina,Hyde,58,25,83,30,41
+North Carolina,Iredell,49,17,88,18,26
+North Carolina,Jackson,31,22,79,26,39
+North Carolina,Johnston,56,19,80,23,29
+North Carolina,Jones,46,21,77,32,41
+North Carolina,Lee,76,20,84,28,36
+North Carolina,Lenoir,74,19,75,36,47
+North Carolina,Lincoln,50,20,84,23,30
+North Carolina,McDowell,56,20,79,30,32
+North Carolina,Macon,56,21,86,31,28
+North Carolina,Madison,39,20,82,28,24
+North Carolina,Martin,70,18,79,37,46
+North Carolina,Mecklenburg,44,17,79,21,35
+North Carolina,Mitchell,49,21,80,28,23
+North Carolina,Montgomery,74,23,78,34,34
+North Carolina,Moore,47,18,74,26,33
+North Carolina,Nash,53,18,77,25,42
+North Carolina,New Hanover,34,18,78,23,35
+North Carolina,Northampton,61,18,81,35,52
+North Carolina,Onslow,81,16,83,22,31
+North Carolina,Orange,13,14,86,17,25
+North Carolina,Pamlico,57,19,81,30,25
+North Carolina,Pasquotank,48,19,82,31,34
+North Carolina,Pender,44,20,85,25,38
+North Carolina,Perquimans,53,18,85,29,31
+North Carolina,Person,50,16,76,25,36
+North Carolina,Pitt,37,19,72,27,41
+North Carolina,Polk,34,20,87,25,30
+North Carolina,Randolph,57,21,84,27,31
+North Carolina,Richmond,82,21,83,38,47
+North Carolina,Robeson,84,25,80,46,56
+North Carolina,Rockingham,60,18,74,27,38
+North Carolina,Rowan,57,19,78,29,33
+North Carolina,Rutherford,63,20,74,34,31
+North Carolina,Sampson,68,21,75,31,42
+North Carolina,Scotland,66,19,87,38,54
+North Carolina,Stanly,53,19,82,22,25
+North Carolina,Stokes,41,17,85,22,30
+North Carolina,Surry,54,21,81,31,29
+North Carolina,Swain,81,22,74,28,30
+North Carolina,Transylvania,41,19,84,29,27
+North Carolina,Tyrrell,63,30,81,43,63
+North Carolina,Union,43,17,91,13,20
+North Carolina,Vance,89,19,73,36,57
+North Carolina,Wake,30,14,84,15,26
+North Carolina,Warren,55,23,80,36,41
+North Carolina,Washington,68,17,83,37,52
+North Carolina,Watauga,12,19,87,21,20
+North Carolina,Wayne,65,18,78,29,39
+North Carolina,Wilkes,56,20,82,27,26
+North Carolina,Wilson,68,20,73,35,44
+North Carolina,Yadkin,51,20,86,24,23
+North Carolina,Yancey,38,22,78,31,16
+North Dakota,Barnes,20,10,87,14,25
+North Dakota,Benson,94,17,51,44,57
+North Dakota,Bottineau,17,13,100,15,20
+North Dakota,Burleigh,24,10,89,11,23
+North Dakota,Cass,21,11,93,13,25
+North Dakota,Dickey,16,12,80,15,11
+North Dakota,Grand Forks,20,11,85,16,24
+North Dakota,McHenry,17,16,90,19,27
+North Dakota,McKenzie,36,14,78,18,33
+North Dakota,McLean,12,13,90,15,17
+North Dakota,Mercer,15,9,90,10,16
+North Dakota,Morton,26,12,76,16,22
+North Dakota,Mountrail,63,15,73,21,34
+North Dakota,Pembina,21,13,83,13,18
+North Dakota,Ramsey,44,12,90,20,30
+North Dakota,Ransom,20,12,89,12,24
+North Dakota,Richland,25,11,95,13,19
+North Dakota,Rolette,96,15,73,37,55
+North Dakota,Sioux,127,14,14,52,54
+North Dakota,Stark,20,11,95,14,20
+North Dakota,Stutsman,27,12,91,15,22
+North Dakota,Traill,16,10,86,10,15
+North Dakota,Walsh,42,12,92,16,23
+North Dakota,Ward,40,10,82,16,23
+North Dakota,Wells,23,14,88,14,13
+North Dakota,Williams,38,12,78,12,25
+Ohio,Adams,58,17,86,32,28
+Ohio,Allen,54,15,83,30,39
+Ohio,Ashland,24,15,92,23,20
+Ohio,Ashtabula,47,16,84,25,33
+Ohio,Athens,16,18,91,26,31
+Ohio,Auglaize,33,12,95,13,21
+Ohio,Belmont,42,14,88,25,33
+Ohio,Brown,43,15,85,21,27
+Ohio,Butler,37,14,87,18,30
+Ohio,Carroll,31,15,88,26,21
+Ohio,Champaign,48,13,84,19,26
+Ohio,Clark,56,14,83,30,37
+Ohio,Clermont,40,13,88,14,27
+Ohio,Clinton,53,13,85,21,33
+Ohio,Columbiana,40,15,87,27,32
+Ohio,Coshocton,45,17,91,30,30
+Ohio,Crawford,50,15,88,26,34
+Ohio,Cuyahoga,43,15,75,29,44
+Ohio,Darke,43,15,90,17,23
+Ohio,Defiance,42,13,93,18,29
+Ohio,Delaware,15,8,95,7,15
+Ohio,Erie,42,14,87,24,32
+Ohio,Fairfield,31,12,89,16,25
+Ohio,Fayette,67,15,92,24,40
+Ohio,Franklin,47,16,83,26,38
+Ohio,Fulton,29,12,92,16,21
+Ohio,Gallia,56,15,82,29,28
+Ohio,Geauga,10,12,91,12,16
+Ohio,Greene,20,12,89,17,27
+Ohio,Guernsey,47,15,82,33,34
+Ohio,Hamilton,47,14,79,29,41
+Ohio,Hancock,34,12,92,17,31
+Ohio,Hardin,34,15,89,21,29
+Ohio,Harrison,46,14,83,27,24
+Ohio,Henry,35,13,93,18,25
+Ohio,Highland,53,15,87,28,31
+Ohio,Hocking,50,15,93,25,33
+Ohio,Holmes,16,26,93,28,8
+Ohio,Huron,52,15,89,22,32
+Ohio,Jackson,67,16,92,35,38
+Ohio,Jefferson,37,13,90,28,35
+Ohio,Knox,27,15,87,25,25
+Ohio,Lake,22,13,87,14,26
+Ohio,Lawrence,54,15,82,32,36
+Ohio,Licking,40,13,85,17,29
+Ohio,Logan,49,14,93,27,30
+Ohio,Lorain,36,14,83,22,35
+Ohio,Lucas,51,15,78,29,43
+Ohio,Madison,42,14,92,20,25
+Ohio,Mahoning,36,14,84,26,39
+Ohio,Marion,62,15,76,25,40
+Ohio,Medina,18,10,92,10,21
+Ohio,Meigs,55,17,83,36,27
+Ohio,Mercer,27,12,97,13,17
+Ohio,Miami,41,13,92,18,27
+Ohio,Monroe,30,14,87,27,27
+Ohio,Montgomery,47,15,82,27,42
+Ohio,Morgan,42,15,89,30,38
+Ohio,Morrow,37,15,85,22,23
+Ohio,Muskingum,47,14,92,29,33
+Ohio,Noble,36,18,87,23,35
+Ohio,Ottawa,31,13,92,16,28
+Ohio,Paulding,37,14,92,21,25
+Ohio,Perry,51,15,88,29,27
+Ohio,Pickaway,46,14,88,19,28
+Ohio,Pike,69,16,82,37,38
+Ohio,Portage,20,13,90,18,29
+Ohio,Preble,43,14,88,20,24
+Ohio,Putnam,26,11,96,12,20
+Ohio,Richland,55,15,84,24,32
+Ohio,Ross,56,16,85,28,34
+Ohio,Sandusky,47,14,89,18,31
+Ohio,Scioto,62,15,89,32,31
+Ohio,Seneca,39,14,84,22,29
+Ohio,Shelby,51,13,92,17,32
+Ohio,Stark,36,13,88,23,34
+Ohio,Summit,36,14,87,22,32
+Ohio,Trumbull,39,15,89,31,38
+Ohio,Tuscarawas,40,16,91,23,23
+Ohio,Union,31,11,90,10,18
+Ohio,Van Wert,38,12,90,19,20
+Ohio,Vinton,59,16,83,36,33
+Ohio,Warren,24,10,93,8,21
+Ohio,Washington,36,14,89,23,28
+Ohio,Wayne,26,16,88,20,21
+Ohio,Williams,48,15,94,19,27
+Ohio,Wood,17,12,93,14,23
+Ohio,Wyandot,41,14,93,14,25
+Oklahoma,Adair,90,25,71,37,34
+Oklahoma,Alfalfa,28,25,95,23,23
+Oklahoma,Atoka,69,26,91,34,33
+Oklahoma,Beaver,38,23,84,17,21
+Oklahoma,Beckham,86,23,66,25,36
+Oklahoma,Blaine,63,28,88,25,35
+Oklahoma,Bryan,68,25,80,26,36
+Oklahoma,Caddo,63,26,77,29,35
+Oklahoma,Canadian,34,16,85,13,25
+Oklahoma,Carter,74,21,80,27,37
+Oklahoma,Cherokee,53,27,74,31,35
+Oklahoma,Choctaw,87,25,84,39,39
+Oklahoma,Cimarron,41,31,100,28,40
+Oklahoma,Cleveland,27,18,82,16,25
+Oklahoma,Coal,69,28,94,33,29
+Oklahoma,Comanche,66,20,80,26,42
+Oklahoma,Cotton,59,22,86,23,30
+Oklahoma,Craig,65,22,87,24,29
+Oklahoma,Creek,56,21,69,23,30
+Oklahoma,Custer,51,23,86,22,34
+Oklahoma,Delaware,68,26,86,36,31
+Oklahoma,Dewey,42,24,100,21,16
+Oklahoma,Ellis,47,21,95,22,27
+Oklahoma,Garfield,67,21,83,24,32
+Oklahoma,Garvin,67,23,80,24,31
+Oklahoma,Grady,47,20,72,22,30
+Oklahoma,Grant,27,24,91,19,26
+Oklahoma,Greer,84,25,82,29,18
+Oklahoma,Harmon,83,28,97,37,39
+Oklahoma,Harper,59,22,80,18,25
+Oklahoma,Haskell,82,26,81,29,23
+Oklahoma,Hughes,77,26,82,33,40
+Oklahoma,Jackson,72,20,75,25,32
+Oklahoma,Jefferson,80,30,78,32,37
+Oklahoma,Johnston,79,24,77,34,31
+Oklahoma,Kay,71,22,67,27,37
+Oklahoma,Kingfisher,45,23,96,17,17
+Oklahoma,Kiowa,71,24,82,33,30
+Oklahoma,Latimer,52,23,73,27,27
+Oklahoma,Le Flore,77,26,84,30,36
+Oklahoma,Lincoln,53,22,78,23,29
+Oklahoma,Logan,31,19,79,19,18
+Oklahoma,Love,58,23,79,24,29
+Oklahoma,McClain,43,21,100,16,22
+Oklahoma,McCurtain,85,25,81,34,40
+Oklahoma,McIntosh,56,26,73,31,36
+Oklahoma,Major,39,22,78,19,14
+Oklahoma,Marshall,79,25,69,27,31
+Oklahoma,Mayes,64,23,81,26,24
+Oklahoma,Murray,84,25,79,23,31
+Oklahoma,Muskogee,73,24,80,31,39
+Oklahoma,Noble,43,20,86,21,27
+Oklahoma,Nowata,54,23,88,25,38
+Oklahoma,Okfuskee,67,25,77,33,31
+Oklahoma,Oklahoma,69,22,72,28,37
+Oklahoma,Okmulgee,67,22,79,29,37
+Oklahoma,Osage,44,22,27,23,29
+Oklahoma,Ottawa,65,25,73,32,35
+Oklahoma,Pawnee,54,23,86,24,38
+Oklahoma,Payne,26,20,87,21,26
+Oklahoma,Pittsburg,68,23,85,25,36
+Oklahoma,Pontotoc,59,23,79,24,34
+Oklahoma,Pottawatomie,59,21,78,26,34
+Oklahoma,Pushmataha,67,27,80,38,50
+Oklahoma,Roger Mills,72,23,64,20,23
+Oklahoma,Rogers,37,18,80,13,22
+Oklahoma,Seminole,75,23,79,35,42
+Oklahoma,Sequoyah,73,24,82,30,34
+Oklahoma,Stephens,57,21,88,24,25
+Oklahoma,Texas,81,26,73,18,26
+Oklahoma,Tillman,79,25,74,38,35
+Oklahoma,Tulsa,60,21,79,23,35
+Oklahoma,Wagoner,39,20,76,17,26
+Oklahoma,Washington,46,20,82,21,35
+Oklahoma,Washita,58,22,88,23,24
+Oklahoma,Woods,27,22,83,21,28
+Oklahoma,Woodward,74,22,78,21,21
+Oregon,Baker,40,23,67,31,30
+Oregon,Benton,11,15,78,15,24
+Oregon,Clackamas,21,16,70,13,23
+Oregon,Clatsop,34,21,66,25,38
+Oregon,Columbia,29,16,70,18,27
+Oregon,Coos,40,21,65,29,35
+Oregon,Crook,40,22,69,29,27
+Oregon,Curry,28,23,68,25,37
+Oregon,Deschutes,34,20,69,22,25
+Oregon,Douglas,44,20,67,31,34
+Oregon,Grant,24,22,78,25,28
+Oregon,Harney,34,25,62,29,22
+Oregon,Hood River,36,24,80,21,22
+Oregon,Jackson,37,21,67,23,32
+Oregon,Jefferson,76,26,61,34,38
+Oregon,Josephine,38,20,64,31,32
+Oregon,Klamath,48,23,63,26,32
+Oregon,Lake,38,24,78,29,38
+Oregon,Lane,28,20,70,23,33
+Oregon,Lincoln,38,22,65,30,38
+Oregon,Linn,44,19,61,29,34
+Oregon,Malheur,64,29,71,40,29
+Oregon,Marion,54,24,65,26,32
+Oregon,Morrow,46,23,83,25,32
+Oregon,Multnomah,36,19,63,25,34
+Oregon,Polk,30,19,69,22,25
+Oregon,Tillamook,37,22,77,24,39
+Oregon,Umatilla,60,24,71,21,33
+Oregon,Union,31,20,72,22,27
+Oregon,Wallowa,13,21,82,28,28
+Oregon,Wasco,43,22,74,24,28
+Oregon,Washington,30,17,78,13,24
+Oregon,Yamhill,36,19,72,19,27
+Pennsylvania,Adams,28,12,87,16,27
+Pennsylvania,Allegheny,25,10,83,16,33
+Pennsylvania,Armstrong,30,12,66,22,28
+Pennsylvania,Beaver,28,10,64,22,30
+Pennsylvania,Bedford,33,13,89,20,22
+Pennsylvania,Berks,38,12,83,22,35
+Pennsylvania,Blair,36,12,85,20,31
+Pennsylvania,Bradford,37,13,84,17,31
+Pennsylvania,Bucks,14,8,88,8,19
+Pennsylvania,Butler,17,10,90,12,21
+Pennsylvania,Cambria,29,12,93,22,31
+Pennsylvania,Cameron,46,13,82,24,21
+Pennsylvania,Carbon,33,12,77,19,28
+Pennsylvania,Centre,8,11,94,15,21
+Pennsylvania,Chester,16,9,85,8,17
+Pennsylvania,Clarion,21,14,85,28,30
+Pennsylvania,Clearfield,32,14,84,25,31
+Pennsylvania,Clinton,28,13,83,23,32
+Pennsylvania,Columbia,18,12,74,17,28
+Pennsylvania,Crawford,31,14,87,32,27
+Pennsylvania,Cumberland,17,10,85,10,21
+Pennsylvania,Dauphin,46,12,77,23,40
+Pennsylvania,Delaware,23,10,86,14,31
+Pennsylvania,Elk,18,11,93,18,38
+Pennsylvania,Erie,38,11,82,24,36
+Pennsylvania,Fayette,46,14,70,32,37
+Pennsylvania,Franklin,42,14,82,15,26
+Pennsylvania,Fulton,37,13,85,18,23
+Pennsylvania,Greene,39,13,76,25,33
+Pennsylvania,Huntingdon,33,15,84,20,26
+Pennsylvania,Indiana,16,14,88,23,25
+Pennsylvania,Jefferson,35,13,76,25,28
+Pennsylvania,Juniata,32,14,88,18,18
+Pennsylvania,Lackawanna,26,11,88,20,32
+Pennsylvania,Lancaster,30,14,85,16,22
+Pennsylvania,Lawrence,30,12,73,26,29
+Pennsylvania,Lebanon,35,12,85,17,27
+Pennsylvania,Lehigh,39,12,82,21,33
+Pennsylvania,Luzerne,30,11,85,27,35
+Pennsylvania,Lycoming,36,12,82,24,36
+Pennsylvania,McKean,39,13,86,24,34
+Pennsylvania,Mercer,28,12,83,27,29
+Pennsylvania,Mifflin,43,15,82,28,28
+Pennsylvania,Monroe,18,13,83,17,27
+Pennsylvania,Montgomery,15,8,87,7,21
+Pennsylvania,Montour,23,10,83,19,21
+Pennsylvania,Northampton,24,11,85,15,28
+Pennsylvania,Northumberland,39,13,79,22,31
+Pennsylvania,Perry,33,12,79,15,25
+Pennsylvania,Philadelphia,63,16,51,36,59
+Pennsylvania,Pike,13,12,92,13,28
+Pennsylvania,Potter,37,13,85,25,35
+Pennsylvania,Schuylkill,34,12,86,19,33
+Pennsylvania,Snyder,23,15,85,18,20
+Pennsylvania,Somerset,23,14,93,23,23
+Pennsylvania,Sullivan,29,15,77,24,31
+Pennsylvania,Susquehanna,30,13,82,20,31
+Pennsylvania,Tioga,29,15,83,24,30
+Pennsylvania,Union,17,17,90,16,23
+Pennsylvania,Venango,37,12,86,27,33
+Pennsylvania,Warren,27,12,77,21,25
+Pennsylvania,Washington,24,10,89,14,25
+Pennsylvania,Wayne,19,13,81,19,27
+Pennsylvania,Westmoreland,21,10,88,16,25
+Pennsylvania,Wyoming,29,11,85,19,33
+Pennsylvania,York,37,10,78,14,28
+Rhode Island,Bristol,8,10,89,8,17
+Rhode Island,Kent,23,10,79,13,26
+Rhode Island,Newport,18,10,82,12,27
+Rhode Island,Providence,41,16,73,25,41
+Rhode Island,Washington,12,9,85,10,23
+South Carolina,Abbeville,47,20,79,27,35
+South Carolina,Aiken,52,18,74,25,39
+South Carolina,Allendale,101,25,57,47,60
+South Carolina,Anderson,58,19,75,28,34
+South Carolina,Bamberg,40,21,67,39,55
+South Carolina,Barnwell,71,19,71,52,50
+South Carolina,Beaufort,54,20,61,23,31
+South Carolina,Berkeley,52,20,68,21,35
+South Carolina,Calhoun,42,19,81,27,41
+South Carolina,Charleston,45,19,68,25,40
+South Carolina,Cherokee,76,20,79,31,39
+South Carolina,Chester,73,20,78,31,52
+South Carolina,Chesterfield,69,21,68,35,42
+South Carolina,Clarendon,63,23,75,39,50
+South Carolina,Colleton,71,21,64,35,42
+South Carolina,Darlington,59,20,88,36,45
+South Carolina,Dillon,91,20,72,37,57
+South Carolina,Dorchester,44,18,71,17,34
+South Carolina,Edgefield,44,20,72,28,37
+South Carolina,Fairfield,64,19,62,33,52
+South Carolina,Florence,59,18,77,30,46
+South Carolina,Georgetown,55,22,81,31,43
+South Carolina,Greenville,47,20,73,21,33
+South Carolina,Greenwood,58,21,81,32,47
+South Carolina,Hampton,64,22,66,34,38
+South Carolina,Horry,57,24,69,32,40
+South Carolina,Jasper,88,28,66,37,52
+South Carolina,Kershaw,64,18,73,26,33
+South Carolina,Lancaster,64,21,73,28,39
+South Carolina,Laurens,61,20,65,31,41
+South Carolina,Lee,69,24,84,38,53
+South Carolina,Lexington,45,17,77,20,32
+South Carolina,McCormick,53,21,71,36,46
+South Carolina,Marion,74,21,64,42,61
+South Carolina,Marlboro,77,24,65,43,59
+South Carolina,Newberry,61,22,70,30,43
+South Carolina,Oconee,55,20,74,23,32
+South Carolina,Orangeburg,55,22,71,37,50
+South Carolina,Pickens,37,19,71,22,26
+South Carolina,Richland,34,16,67,21,42
+South Carolina,Saluda,58,24,75,29,29
+South Carolina,Spartanburg,60,21,77,26,33
+South Carolina,Sumter,66,20,77,32,45
+South Carolina,Union,74,20,72,30,40
+South Carolina,Williamsburg,55,22,69,44,56
+South Carolina,York,46,17,77,17,32
+South Dakota,Beadle,43,14,75,20,21
+South Dakota,Bennett,77,22,78,47,68
+South Dakota,Bon Homme,21,19,86,19,18
+South Dakota,Brookings,12,12,86,12,21
+South Dakota,Brown,30,13,84,13,23
+South Dakota,Brule,22,21,73,19,18
+South Dakota,Butte,40,18,100,23,29
+South Dakota,Charles Mix,71,21,71,36,43
+South Dakota,Clay,9,15,70,20,17
+South Dakota,Codington,45,14,82,14,24
+South Dakota,Corson,103,23,71,54,48
+South Dakota,Custer,26,16,71,20,29
+South Dakota,Davison,35,15,91,18,29
+South Dakota,Day,31,21,82,24,28
+South Dakota,Deuel,25,16,81,14,10
+South Dakota,Dewey,99,21,100,42,48
+South Dakota,Fall River,48,17,81,25,30
+South Dakota,Grant,26,15,91,16,21
+South Dakota,Gregory,23,23,93,35,19
+South Dakota,Hamlin,33,15,86,19,16
+South Dakota,Hughes,36,13,78,14,29
+South Dakota,Jackson,100,24,90,50,55
+South Dakota,Kingsbury,15,15,90,15,17
+South Dakota,Lake,16,13,100,15,18
+South Dakota,Lawrence,22,16,84,19,28
+South Dakota,Lincoln,17,9,83,6,17
+South Dakota,Lyman,77,23,77,33,53
+South Dakota,McCook,13,14,92,13,17
+South Dakota,Marshall,27,20,93,22,26
+South Dakota,Meade,36,15,76,16,24
+South Dakota,Mellette,79,21,63,45,55
+South Dakota,Minnehaha,38,13,78,14,29
+South Dakota,Moody,28,15,69,15,27
+South Dakota,Pennington,57,16,78,22,37
+South Dakota,Roberts,66,21,76,29,44
+South Dakota,Spink,20,16,89,14,19
+South Dakota,Stanley,38,17,77,15,37
+South Dakota,Todd,116,16,41,58,64
+South Dakota,Tripp,42,23,81,30,32
+South Dakota,Turner,18,14,100,12,20
+South Dakota,Union,21,10,87,9,18
+South Dakota,Walworth,40,18,88,25,27
+South Dakota,Yankton,28,13,78,16,25
+South Dakota,Ziebach,43,24,66,52,57
+Tennessee,Anderson,50,14,85,25,29
+Tennessee,Bedford,80,21,79,34,30
+Tennessee,Benton,57,19,65,34,31
+Tennessee,Bledsoe,56,20,75,34,27
+Tennessee,Blount,46,15,86,20,28
+Tennessee,Bradley,54,18,78,25,31
+Tennessee,Campbell,70,19,72,35,33
+Tennessee,Cannon,44,18,67,26,29
+Tennessee,Carroll,60,17,89,30,36
+Tennessee,Carter,55,19,82,41,34
+Tennessee,Cheatham,46,16,77,19,24
+Tennessee,Chester,34,17,74,26,33
+Tennessee,Claiborne,50,19,71,34,24
+Tennessee,Clay,56,20,90,38,25
+Tennessee,Cocke,76,20,88,49,33
+Tennessee,Coffee,62,16,78,33,33
+Tennessee,Crockett,65,21,79,30,45
+Tennessee,Cumberland,66,19,84,30,26
+Tennessee,Davidson,54,18,72,31,43
+Tennessee,Decatur,60,19,76,31,32
+Tennessee,DeKalb,74,19,81,32,24
+Tennessee,Dickson,60,17,82,23,29
+Tennessee,Dyer,74,17,81,30,37
+Tennessee,Fayette,54,16,85,20,32
+Tennessee,Fentress,60,19,100,38,30
+Tennessee,Franklin,42,16,84,24,23
+Tennessee,Gibson,67,16,81,27,38
+Tennessee,Giles,53,16,79,26,30
+Tennessee,Grainger,67,19,87,31,24
+Tennessee,Greene,59,17,90,31,31
+Tennessee,Grundy,62,19,86,43,39
+Tennessee,Hamblen,82,19,71,34,32
+Tennessee,Hamilton,52,15,72,25,35
+Tennessee,Hancock,53,18,92,45,35
+Tennessee,Hardeman,70,19,70,34,47
+Tennessee,Hardin,59,18,91,37,37
+Tennessee,Hawkins,58,16,73,30,30
+Tennessee,Haywood,80,18,61,34,50
+Tennessee,Henderson,65,17,78,26,27
+Tennessee,Henry,65,18,73,32,34
+Tennessee,Hickman,71,19,81,31,29
+Tennessee,Houston,73,19,83,29,37
+Tennessee,Humphreys,50,17,92,28,32
+Tennessee,Jackson,44,19,71,34,33
+Tennessee,Jefferson,53,17,81,25,31
+Tennessee,Johnson,66,22,97,37,28
+Tennessee,Knox,39,14,80,17,30
+Tennessee,Lake,98,25,77,47,44
+Tennessee,Lauderdale,85,19,70,32,40
+Tennessee,Lawrence,53,18,80,28,21
+Tennessee,Lewis,65,19,82,32,30
+Tennessee,Lincoln,60,16,80,26,24
+Tennessee,Loudon,60,15,81,24,22
+Tennessee,McMinn,58,17,72,28,32
+Tennessee,McNairy,67,17,85,30,23
+Tennessee,Macon,75,20,71,37,29
+Tennessee,Madison,52,16,71,30,45
+Tennessee,Marion,64,17,74,33,32
+Tennessee,Marshall,59,17,81,23,34
+Tennessee,Maury,56,17,72,21,32
+Tennessee,Meigs,54,17,79,37,38
+Tennessee,Monroe,66,19,84,31,28
+Tennessee,Montgomery,55,15,87,22,37
+Tennessee,Moore,38,15,98,21,34
+Tennessee,Morgan,51,18,100,29,26
+Tennessee,Obion,62,16,72,26,32
+Tennessee,Overton,44,18,73,31,17
+Tennessee,Perry,52,19,94,34,25
+Tennessee,Pickett,50,21,90,33,28
+Tennessee,Polk,75,19,80,31,30
+Tennessee,Putnam,46,19,77,28,28
+Tennessee,Rhea,72,18,77,32,33
+Tennessee,Roane,49,14,74,25,30
+Tennessee,Robertson,64,16,86,20,31
+Tennessee,Rutherford,41,14,89,18,31
+Tennessee,Scott,73,19,77,36,23
+Tennessee,Sequatchie,75,19,80,34,34
+Tennessee,Sevier,63,21,71,27,27
+Tennessee,Shelby,66,17,71,29,51
+Tennessee,Smith,55,17,90,27,28
+Tennessee,Stewart,47,16,89,24,36
+Tennessee,Sullivan,52,15,74,28,30
+Tennessee,Sumner,46,14,83,19,24
+Tennessee,Tipton,54,16,84,20,35
+Tennessee,Trousdale,53,20,85,27,24
+Tennessee,Unicoi,46,16,84,27,27
+Tennessee,Union,68,21,80,40,31
+Tennessee,Van Buren,57,19,78,33,30
+Tennessee,Warren,72,21,75,38,32
+Tennessee,Washington,41,17,90,23,29
+Tennessee,Wayne,48,22,89,32,31
+Tennessee,Weakley,32,18,74,29,37
+Tennessee,White,71,18,81,33,28
+Tennessee,Williamson,14,8,99,7,14
+Tennessee,Wilson,40,13,84,15,23
+Texas,Anderson,80,31,93,27,32
+Texas,Andrews,80,27,86,19,41
+Texas,Angelina,77,26,87,27,36
+Texas,Aransas,66,28,90,41,40
+Texas,Archer,34,24,98,15,17
+Texas,Atascosa,72,28,85,31,39
+Texas,Austin,47,24,92,18,31
+Texas,Bailey,110,36,95,30,24
+Texas,Bandera,37,26,88,27,28
+Texas,Bastrop,54,27,87,24,27
+Texas,Baylor,72,28,98,32,12
+Texas,Bee,76,29,84,35,35
+Texas,Bell,79,20,84,20,37
+Texas,Bexar,65,24,79,25,36
+Texas,Blanco,42,27,90,20,28
+Texas,Bosque,54,27,96,27,26
+Texas,Bowie,69,24,93,28,39
+Texas,Brazoria,53,22,88,15,26
+Texas,Brazos,38,22,82,26,39
+Texas,Brewster,40,31,99,23,19
+Texas,Briscoe,55,36,92,29,27
+Texas,Brooks,118,27,89,50,50
+Texas,Brown,64,26,93,29,26
+Texas,Burleson,65,25,90,25,28
+Texas,Burnet,58,29,95,24,36
+Texas,Caldwell,75,27,90,26,37
+Texas,Calhoun,81,28,90,31,26
+Texas,Callahan,44,25,93,25,30
+Texas,Cameron,88,37,83,49,34
+Texas,Camp,94,28,97,34,41
+Texas,Carson,24,17,96,11,14
+Texas,Cass,58,23,97,32,42
+Texas,Castro,81,35,91,30,30
+Texas,Chambers,40,20,96,14,21
+Texas,Cherokee,79,28,92,35,32
+Texas,Childress,87,35,96,33,38
+Texas,Clay,39,23,95,18,23
+Texas,Cochran,62,33,90,34,14
+Texas,Coke,31,31,94,22,27
+Texas,Coleman,82,31,94,36,26
+Texas,Collin,24,17,94,10,18
+Texas,Collingsworth,83,33,89,31,31
+Texas,Colorado,51,30,95,28,33
+Texas,Comal,45,20,91,17,21
+Texas,Comanche,70,34,95,30,30
+Texas,Concho,67,43,91,32,36
+Texas,Cooke,66,27,94,24,26
+Texas,Coryell,44,25,91,15,29
+Texas,Cottle,46,37,91,33,46
+Texas,Crane,60,27,84,15,19
+Texas,Crockett,72,32,100,25,30
+Texas,Crosby,98,29,90,40,28
+Texas,Culberson,106,38,84,39,14
+Texas,Dallam,93,36,92,23,17
+Texas,Dallas,76,32,79,29,37
+Texas,Dawson,98,31,84,36,24
+Texas,Deaf Smith,95,34,82,30,26
+Texas,Delta,57,25,96,28,30
+Texas,Denton,29,18,92,9,21
+Texas,DeWitt,66,27,95,32,37
+Texas,Dickens,45,35,89,31,43
+Texas,Dimmit,85,29,78,45,38
+Texas,Donley,31,33,88,27,33
+Texas,Duval,85,26,74,39,30
+Texas,Eastland,57,30,92,33,28
+Texas,Ector,99,29,70,28,39
+Texas,Edwards,58,37,92,40,44
+Texas,Ellis,57,23,90,17,28
+Texas,El Paso,78,32,81,34,36
+Texas,Erath,40,30,82,24,27
+Texas,Falls,56,29,78,32,41
+Texas,Fannin,63,27,94,24,25
+Texas,Fayette,43,25,91,20,26
+Texas,Fisher,51,28,96,24,23
+Texas,Floyd,83,31,91,35,27
+Texas,Foard,53,33,100,29,40
+Texas,Fort Bend,27,19,90,13,22
+Texas,Franklin,66,26,98,25,30
+Texas,Freestone,64,26,95,24,20
+Texas,Frio,100,32,83,43,27
+Texas,Gaines,73,37,97,27,16
+Texas,Galveston,50,22,88,20,31
+Texas,Garza,79,31,78,30,31
+Texas,Gillespie,47,28,97,20,27
+Texas,Goliad,52,26,98,25,26
+Texas,Gonzales,100,32,89,32,32
+Texas,Gray,72,28,93,22,27
+Texas,Grayson,63,25,92,21,33
+Texas,Gregg,78,25,87,30,37
+Texas,Grimes,66,28,88,28,32
+Texas,Guadalupe,48,22,92,17,26
+Texas,Hale,100,29,84,29,34
+Texas,Hall,68,37,93,40,36
+Texas,Hamilton,48,31,91,27,25
+Texas,Hansford,57,33,100,20,17
+Texas,Hardeman,69,27,94,35,26
+Texas,Hardin,51,21,93,18,27
+Texas,Harris,63,29,81,27,34
+Texas,Harrison,54,25,90,26,35
+Texas,Hartley,45,30,94,13,17
+Texas,Haskell,69,32,90,39,23
+Texas,Hays,32,22,84,14,25
+Texas,Hemphill,59,24,97,13,20
+Texas,Henderson,72,28,94,31,32
+Texas,Hidalgo,95,38,79,45,32
+Texas,Hill,70,29,91,27,26
+Texas,Hockley,74,27,85,26,28
+Texas,Hood,53,22,90,20,24
+Texas,Hopkins,62,29,95,28,26
+Texas,Houston,68,30,93,33,39
+Texas,Howard,92,27,90,31,39
+Texas,Hudspeth,82,43,91,42,26
+Texas,Hunt,59,27,88,28,32
+Texas,Hutchinson,63,24,90,20,27
+Texas,Jack,68,28,97,20,28
+Texas,Jackson,70,25,95,25,40
+Texas,Jasper,67,24,89,29,36
+Texas,Jeff Davis,30,34,89,19,29
+Texas,Jefferson,59,25,86,34,42
+Texas,Jim Hogg,92,29,81,37,34
+Texas,Jim Wells,84,26,74,33,39
+Texas,Johnson,58,24,88,18,27
+Texas,Jones,62,31,97,30,24
+Texas,Karnes,81,34,88,33,36
+Texas,Kaufman,58,24,91,17,28
+Texas,Kendall,27,20,98,14,16
+Texas,Kerr,67,28,85,28,37
+Texas,Kimble,73,35,100,34,37
+Texas,Kinney,66,32,90,37,37
+Texas,Kleberg,67,26,83,33,36
+Texas,Knox,55,34,92,36,26
+Texas,Lamar,67,25,91,27,31
+Texas,Lamb,99,30,85,33,35
+Texas,Lampasas,54,27,89,27,29
+Texas,La Salle,89,32,83,45,54
+Texas,Lavaca,49,24,96,21,28
+Texas,Lee,41,27,91,18,32
+Texas,Leon,62,27,92,25,27
+Texas,Liberty,71,27,88,26,31
+Texas,Limestone,74,28,83,29,28
+Texas,Lipscomb,75,29,92,21,32
+Texas,Live Oak,51,29,85,28,19
+Texas,Llano,67,24,94,30,40
+Texas,Lubbock,67,24,83,28,36
+Texas,Lynn,65,31,97,30,34
+Texas,McCulloch,78,30,95,38,27
+Texas,McLennan,59,23,86,29,39
+Texas,Madison,63,34,96,30,37
+Texas,Marion,70,28,83,35,44
+Texas,Martin,64,29,100,24,11
+Texas,Mason,37,35,100,31,36
+Texas,Matagorda,71,29,93,28,34
+Texas,Maverick,78,35,82,53,33
+Texas,Medina,55,27,88,27,26
+Texas,Menard,64,38,89,41,33
+Texas,Midland,72,24,81,22,31
+Texas,Milam,68,27,91,30,24
+Texas,Mills,40,31,99,28,33
+Texas,Mitchell,71,31,91,28,38
+Texas,Montague,73,26,93,25,27
+Texas,Montgomery,45,21,91,16,24
+Texas,Moore,98,32,92,23,31
+Texas,Morris,67,23,93,32,46
+Texas,Nacogdoches,48,29,86,33,40
+Texas,Navarro,70,28,90,33,37
+Texas,Newton,57,26,97,32,32
+Texas,Nolan,98,26,95,33,37
+Texas,Nueces,67,26,80,31,42
+Texas,Ochiltree,92,31,96,19,22
+Texas,Orange,60,21,91,23,32
+Texas,Palo Pinto,82,30,93,27,37
+Texas,Panola,58,23,85,21,31
+Texas,Parker,44,22,94,18,23
+Texas,Parmer,64,34,91,21,25
+Texas,Pecos,78,32,64,28,37
+Texas,Polk,76,30,86,31,49
+Texas,Potter,107,31,82,36,44
+Texas,Presidio,81,40,92,37,33
+Texas,Rains,53,29,96,28,35
+Texas,Randall,38,18,94,11,29
+Texas,Reagan,75,33,84,16,14
+Texas,Real,67,34,82,45,37
+Texas,Red River,62,28,95,32,35
+Texas,Reeves,93,36,85,36,45
+Texas,Refugio,61,27,92,27,27
+Texas,Robertson,70,27,93,34,44
+Texas,Rockwall,26,19,94,9,20
+Texas,Runnels,64,29,96,35,38
+Texas,Rusk,64,25,94,24,27
+Texas,Sabine,78,25,92,31,30
+Texas,San Augustine,78,25,76,35,51
+Texas,San Jacinto,62,28,92,31,26
+Texas,San Patricio,74,25,86,32,33
+Texas,San Saba,57,35,96,34,56
+Texas,Schleicher,74,32,100,25,29
+Texas,Scurry,86,26,92,24,34
+Texas,Shackelford,29,29,99,21,22
+Texas,Shelby,89,29,93,33,39
+Texas,Sherman,48,35,91,17,17
+Texas,Smith,58,25,88,22,32
+Texas,Somervell,45,25,87,17,27
+Texas,Starr,108,35,86,55,35
+Texas,Stephens,69,33,95,31,30
+Texas,Sutton,66,30,95,22,32
+Texas,Swisher,85,33,89,30,31
+Texas,Tarrant,60,25,84,21,31
+Texas,Taylor,66,22,73,24,34
+Texas,Terry,103,32,82,35,23
+Texas,Titus,93,30,98,30,30
+Texas,Tom Green,63,26,83,27,33
+Texas,Travis,54,24,79,25,33
+Texas,Trinity,62,27,84,32,37
+Texas,Tyler,71,26,96,28,37
+Texas,Upshur,58,25,94,26,32
+Texas,Upton,66,32,96,23,29
+Texas,Uvalde,78,32,79,42,33
+Texas,Val Verde,88,32,81,40,31
+Texas,Van Zandt,56,30,90,24,25
+Texas,Victoria,76,25,75,28,43
+Texas,Walker,30,29,72,27,35
+Texas,Waller,47,27,91,28,32
+Texas,Ward,80,27,88,27,33
+Texas,Washington,43,25,91,23,38
+Texas,Webb,106,36,88,42,36
+Texas,Wharton,70,28,92,27,39
+Texas,Wheeler,79,29,97,21,39
+Texas,Wichita,64,24,91,23,34
+Texas,Wilbarger,91,27,91,26,41
+Texas,Willacy,84,32,86,47,45
+Texas,Williamson,36,17,89,11,22
+Texas,Wilson,38,22,91,18,19
+Texas,Winkler,73,30,88,23,28
+Texas,Wise,48,25,95,18,20
+Texas,Wood,54,27,94,34,26
+Texas,Yoakum,80,30,98,21,19
+Texas,Young,74,28,97,26,26
+Texas,Zapata,126,35,87,47,36
+Texas,Zavala,109,30,81,51,48
+Utah,Beaver,47,20,95,18,19
+Utah,Box Elder,34,15,95,13,17
+Utah,Cache,27,15,94,16,14
+Utah,Carbon,38,14,99,19,22
+Utah,Davis,27,11,93,10,14
+Utah,Duchesne,66,18,82,15,17
+Utah,Emery,31,15,95,16,17
+Utah,Garfield,30,18,97,20,16
+Utah,Grand,45,22,97,26,26
+Utah,Iron,37,18,91,27,21
+Utah,Juab,38,16,95,17,20
+Utah,Kane,35,20,97,20,19
+Utah,Millard,36,20,95,20,16
+Utah,Morgan,12,13,98,7,6
+Utah,Salt Lake,40,17,86,18,21
+Utah,San Juan,38,23,94,28,34
+Utah,Sanpete,28,20,94,22,13
+Utah,Sevier,44,16,89,21,14
+Utah,Summit,25,14,98,12,13
+Utah,Tooele,35,14,83,12,17
+Utah,Uintah,62,21,72,17,21
+Utah,Utah,22,14,93,13,11
+Utah,Wasatch,34,19,90,13,12
+Utah,Washington,42,20,92,22,15
+Utah,Weber,51,18,85,18,24
+Vermont,Addison,12,11,89,15,25
+Vermont,Bennington,31,11,82,21,27
+Vermont,Caledonia,29,12,90,22,35
+Vermont,Chittenden,13,9,91,12,29
+Vermont,Essex,24,14,91,27,30
+Vermont,Franklin,33,10,88,16,29
+Vermont,Lamoille,21,12,88,17,27
+Vermont,Orange,25,11,81,17,28
+Vermont,Orleans,34,13,81,24,30
+Vermont,Rutland,23,11,85,17,33
+Vermont,Washington,20,10,90,14,32
+Vermont,Windham,24,11,80,18,35
+Vermont,Windsor,24,10,85,14,26
+Virginia,Accomack,67,20,79,29,40
+Virginia,Albemarle,15,12,93,10,23
+Virginia,Alleghany,51,14,93,20,26
+Virginia,Amelia,44,18,85,17,29
+Virginia,Amherst,29,16,88,19,34
+Virginia,Appomattox,47,17,82,22,36
+Virginia,Arlington,26,12,88,10,25
+Virginia,Augusta,39,15,88,13,24
+Virginia,Bedford,28,14,91,13,22
+Virginia,Bland,26,16,88,18,17
+Virginia,Botetourt,21,12,91,9,16
+Virginia,Brunswick,46,20,78,27,51
+Virginia,Buchanan,43,19,89,35,35
+Virginia,Buckingham,45,21,84,25,31
+Virginia,Campbell,39,15,85,19,32
+Virginia,Caroline,51,16,82,17,28
+Virginia,Carroll,50,18,87,25,27
+Virginia,Charles City,33,19,93,18,25
+Virginia,Charlotte,41,19,86,28,40
+Virginia,Chesterfield,21,11,87,9,26
+Virginia,Clarke,24,13,100,10,21
+Virginia,Craig,24,17,87,18,21
+Virginia,Culpeper,42,16,87,15,22
+Virginia,Cumberland,40,18,90,26,35
+Virginia,Dickenson,47,17,85,27,37
+Virginia,Dinwiddie,41,15,78,17,40
+Virginia,Essex,50,16,87,24,39
+Virginia,Fairfax,18,11,91,7,18
+Virginia,Fauquier,26,12,90,9,21
+Virginia,Floyd,28,19,89,20,19
+Virginia,Fluvanna,31,14,93,9,25
+Virginia,Franklin,40,16,85,22,29
+Virginia,Frederick,41,14,85,11,25
+Virginia,Giles,46,14,80,19,20
+Virginia,Gloucester,29,14,87,14,30
+Virginia,Goochland,18,11,89,10,16
+Virginia,Grayson,51,18,80,27,25
+Virginia,Greene,46,16,88,13,23
+Virginia,Greensville,86,19,84,26,46
+Virginia,Halifax,53,17,89,28,44
+Virginia,Hanover,15,10,94,6,21
+Virginia,Henrico,30,13,85,13,34
+Virginia,Henry,58,19,88,27,42
+Virginia,Isle of Wight,33,13,89,12,26
+Virginia,James City,23,10,87,10,24
+Virginia,King and Queen,52,18,79,19,28
+Virginia,King George,43,12,90,9,27
+Virginia,King William,31,13,89,11,23
+Virginia,Lancaster,45,17,92,26,47
+Virginia,Lee,51,18,91,33,32
+Virginia,Loudoun,16,7,95,4,14
+Virginia,Louisa,43,16,92,16,31
+Virginia,Lunenburg,51,19,70,28,36
+Virginia,Madison,33,18,85,17,27
+Virginia,Mathews,28,15,92,17,37
+Virginia,Mecklenburg,51,18,92,28,49
+Virginia,Middlesex,33,18,88,22,39
+Virginia,Montgomery,16,14,87,17,28
+Virginia,Nelson,39,18,85,21,28
+Virginia,New Kent,25,13,86,8,29
+Virginia,Northampton,57,20,70,32,45
+Virginia,Northumberland,62,17,74,28,33
+Virginia,Nottoway,55,20,84,28,46
+Virginia,Orange,43,16,90,15,31
+Virginia,Page,52,18,93,23,30
+Virginia,Patrick,39,19,95,28,33
+Virginia,Pittsylvania,40,17,87,22,30
+Virginia,Powhatan,16,14,87,9,16
+Virginia,Prince Edward,19,19,78,27,34
+Virginia,Prince George,21,14,82,13,29
+Virginia,Prince William,37,13,88,9,24
+Virginia,Pulaski,49,15,88,23,31
+Virginia,Rappahannock,24,17,93,16,22
+Virginia,Richmond,45,22,76,24,28
+Virginia,Roanoke,29,10,92,9,21
+Virginia,Rockbridge,48,17,81,17,24
+Virginia,Rockingham,34,17,91,15,22
+Virginia,Russell,42,17,86,25,24
+Virginia,Scott,46,17,94,25,28
+Virginia,Shenandoah,50,16,90,17,31
+Virginia,Smyth,59,17,84,28,43
+Virginia,Southampton,40,18,86,20,39
+Virginia,Spotsylvania,36,12,85,11,26
+Virginia,Stafford,29,10,92,7,20
+Virginia,Surry,30,15,89,20,36
+Virginia,Sussex,65,22,85,24,41
+Virginia,Tazewell,47,17,77,24,29
+Virginia,Warren,41,15,92,14,23
+Virginia,Washington,38,16,89,19,29
+Virginia,Westmoreland,53,19,78,26,38
+Virginia,Wise,55,17,87,28,26
+Virginia,Wythe,46,17,80,23,36
+Virginia,York,15,9,94,7,20
+Virginia,Alexandria City,58,13,79,14,33
+Virginia,Bristol City,53,16,80,34,42
+Virginia,Buena Vista City,20,17,89,23,34
+Virginia,Charlottesville City,34,16,84,23,38
+Virginia,Chesapeake City,35,12,90,11,30
+Virginia,Colonial Heights City,49,14,85,15,38
+Virginia,Covington City,31,18,72,24,29
+Virginia,Danville City,67,16,76,42,54
+Virginia,Falls Church City,12,7,97,3,14
+Virginia,Franklin City,78,17,85,33,55
+Virginia,Fredericksburg City,36,18,84,23,50
+Virginia,Galax City,92,20,84,36,55
+Virginia,Hampton City,39,14,85,20,40
+Virginia,Harrisonburg City,18,19,80,22,34
+Virginia,Hopewell City,85,17,78,28,59
+Virginia,Lynchburg City,36,15,80,30,42
+Virginia,Manassas City,51,18,77,18,33
+Virginia,Manassas Park City,65,20,85,14,30
+Virginia,Martinsville City,79,18,86,36,59
+Virginia,Newport News City,59,15,81,23,42
+Virginia,Norfolk City,61,18,74,26,51
+Virginia,Norton City,54,15,86,32,50
+Virginia,Petersburg City,98,17,68,41,68
+Virginia,Poquoson City,15,10,93,7,22
+Virginia,Portsmouth City,69,16,77,29,56
+Virginia,Radford City,8,15,94,19,32
+Virginia,Richmond City,62,18,70,35,64
+Virginia,Roanoke City,79,18,76,34,57
+Virginia,Salem City,22,13,88,13,31
+Virginia,Staunton City,38,16,81,24,39
+Virginia,Suffolk City,43,14,81,17,34
+Virginia,Virginia Beach City,32,13,87,11,29
+Virginia,Waynesboro City,64,17,80,27,44
+Virginia,Williamsburg City,11,12,87,23,41
+Virginia,Winchester City,75,20,88,25,40
+Washington,Adams,99,22,77,30,27
+Washington,Asotin,52,15,74,26,33
+Washington,Benton,44,14,72,18,29
+Washington,Chelan,44,20,72,22,29
+Washington,Clallam,33,18,28,23,40
+Washington,Clark,31,15,79,18,26
+Washington,Columbia,28,17,92,21,41
+Washington,Cowlitz,50,16,86,29,33
+Washington,Douglas,48,21,80,22,27
+Washington,Ferry,34,20,88,28,31
+Washington,Franklin,81,24,75,25,31
+Washington,Grant,70,22,76,30,31
+Washington,Grays Harbor,51,20,73,29,35
+Washington,Island,29,13,84,15,25
+Washington,Jefferson,26,15,85,22,29
+Washington,King,21,13,83,15,25
+Washington,Kitsap,31,13,87,15,27
+Washington,Kittitas,17,18,78,19,24
+Washington,Klickitat,38,20,85,29,40
+Washington,Lewis,47,16,74,22,27
+Washington,Lincoln,24,15,88,18,21
+Washington,Mason,46,18,81,22,32
+Washington,Okanogan,48,25,65,32,39
+Washington,Pacific,36,20,65,27,24
+Washington,Pend Oreille,43,15,84,29,37
+Washington,Pierce,37,15,71,17,32
+Washington,San Juan,13,17,80,20,30
+Washington,Skagit,47,18,76,21,30
+Washington,Skamania,24,15,28,20,31
+Washington,Snohomish,25,14,76,13,26
+Washington,Spokane,32,15,78,18,30
+Washington,Stevens,36,17,59,27,27
+Washington,Thurston,26,13,79,14,32
+Washington,Wahkiakum,22,15,85,26,25
+Washington,Walla Walla,37,19,88,22,29
+Washington,Whatcom,22,17,78,16,27
+Washington,Whitman,7,15,93,16,17
+Washington,Yakima,74,25,72,35,39
+West Virginia,Barbour,39,19,73,30,33
+West Virginia,Berkeley,58,15,79,18,33
+West Virginia,Boone,67,16,78,26,23
+West Virginia,Braxton,51,20,79,34,26
+West Virginia,Brooke,28,14,90,22,35
+West Virginia,Cabell,47,17,71,35,35
+West Virginia,Calhoun,46,20,87,36,34
+West Virginia,Clay,59,18,77,38,20
+West Virginia,Doddridge,41,19,79,30,45
+West Virginia,Fayette,56,19,74,32,33
+West Virginia,Gilmer,31,21,89,31,32
+West Virginia,Grant,52,18,83,26,30
+West Virginia,Greenbrier,45,19,75,29,30
+West Virginia,Hampshire,49,19,76,26,32
+West Virginia,Hancock,43,14,87,21,31
+West Virginia,Hardy,43,18,79,25,35
+West Virginia,Harrison,49,17,75,25,32
+West Virginia,Jackson,42,16,79,30,27
+West Virginia,Jefferson,37,14,81,15,21
+West Virginia,Kanawha,52,16,70,22,34
+West Virginia,Lewis,44,19,76,28,30
+West Virginia,Lincoln,68,19,77,34,32
+West Virginia,Logan,61,18,80,30,25
+West Virginia,McDowell,75,20,77,45,37
+West Virginia,Marion,38,17,76,25,30
+West Virginia,Marshall,39,14,82,26,27
+West Virginia,Mason,51,15,72,27,34
+West Virginia,Mercer,64,19,71,31,31
+West Virginia,Mineral,34,15,86,25,35
+West Virginia,Mingo,64,19,74,32,32
+West Virginia,Monongalia,16,14,73,17,23
+West Virginia,Monroe,36,20,76,26,16
+West Virginia,Morgan,41,18,81,21,31
+West Virginia,Nicholas,44,18,74,28,22
+West Virginia,Ohio,34,14,75,25,31
+West Virginia,Pendleton,32,20,89,25,27
+West Virginia,Pleasants,41,16,87,21,26
+West Virginia,Pocahontas,42,20,83,31,23
+West Virginia,Preston,45,18,79,24,25
+West Virginia,Putnam,30,13,78,14,20
+West Virginia,Raleigh,49,18,79,26,29
+West Virginia,Randolph,51,19,76,29,30
+West Virginia,Ritchie,46,19,82,28,28
+West Virginia,Roane,46,20,77,33,25
+West Virginia,Summers,52,21,73,34,35
+West Virginia,Taylor,41,18,70,28,30
+West Virginia,Tucker,34,18,84,26,23
+West Virginia,Tyler,42,16,82,26,25
+West Virginia,Upshur,35,19,67,31,23
+West Virginia,Wayne,49,18,74,28,25
+West Virginia,Webster,44,20,76,40,21
+West Virginia,Wetzel,54,16,84,28,28
+West Virginia,Wirt,49,18,86,34,22
+West Virginia,Wood,47,16,79,25,31
+West Virginia,Wyoming,68,17,80,30,22
+Wisconsin,Adams,49,13,90,29,35
+Wisconsin,Ashland,31,13,89,28,37
+Wisconsin,Barron,32,11,91,22,28
+Wisconsin,Bayfield,19,13,90,25,27
+Wisconsin,Brown,34,11,86,15,28
+Wisconsin,Buffalo,19,11,95,17,20
+Wisconsin,Burnett,36,13,58,27,36
+Wisconsin,Calumet,16,8,92,8,20
+Wisconsin,Chippewa,28,11,89,19,27
+Wisconsin,Clark,27,15,91,24,17
+Wisconsin,Columbia,23,9,93,14,29
+Wisconsin,Crawford,30,12,89,21,32
+Wisconsin,Dane,20,8,86,13,26
+Wisconsin,Dodge,26,10,93,13,24
+Wisconsin,Door,20,11,94,17,26
+Wisconsin,Douglas,32,12,87,20,37
+Wisconsin,Dunn,17,11,90,19,24
+Wisconsin,Eau Claire,20,11,87,18,22
+Wisconsin,Fond du Lac,26,9,92,16,25
+Wisconsin,Forest,40,15,87,27,37
+Wisconsin,Grant,22,13,91,21,25
+Wisconsin,Green,27,10,81,14,21
+Wisconsin,Green Lake,27,12,89,24,22
+Wisconsin,Iowa,21,11,90,13,16
+Wisconsin,Jackson,41,14,92,27,32
+Wisconsin,Jefferson,22,11,90,15,23
+Wisconsin,Juneau,39,13,82,26,26
+Wisconsin,Kenosha,37,11,83,20,31
+Wisconsin,Kewaunee,19,10,94,13,18
+Wisconsin,La Crosse,20,9,91,14,26
+Wisconsin,Lafayette,20,13,93,20,26
+Wisconsin,Langlade,38,12,91,23,28
+Wisconsin,Lincoln,31,11,92,17,23
+Wisconsin,Manitowoc,29,10,87,17,21
+Wisconsin,Marathon,26,10,92,19,22
+Wisconsin,Marinette,26,11,89,21,29
+Wisconsin,Marquette,35,12,94,21,26
+Wisconsin,Menominee,105,13,80,48,52
+Wisconsin,Milwaukee,61,14,75,35,49
+Wisconsin,Monroe,38,12,90,24,27
+Wisconsin,Oconto,25,11,89,18,30
+Wisconsin,Oneida,23,11,84,19,29
+Wisconsin,Outagamie,22,10,87,12,22
+Wisconsin,Ozaukee,8,7,97,6,18
+Wisconsin,Pepin,14,13,95,21,22
+Wisconsin,Pierce,11,9,95,11,18
+Wisconsin,Polk,26,11,92,18,26
+Wisconsin,Portage,19,10,90,14,19
+Wisconsin,Price,17,10,92,22,23
+Wisconsin,Racine,45,11,74,21,34
+Wisconsin,Richland,23,12,95,24,31
+Wisconsin,Rock,42,11,85,21,33
+Wisconsin,Rusk,29,13,92,32,26
+Wisconsin,St. Croix,15,8,95,8,21
+Wisconsin,Sauk,35,11,89,17,33
+Wisconsin,Sawyer,44,15,83,32,45
+Wisconsin,Shawano,29,12,87,20,31
+Wisconsin,Sheboygan,31,10,90,15,20
+Wisconsin,Taylor,22,12,97,22,22
+Wisconsin,Trempealeau,29,11,89,19,26
+Wisconsin,Vernon,20,15,92,26,19
+Wisconsin,Vilas,29,15,92,25,38
+Wisconsin,Walworth,26,12,89,17,25
+Wisconsin,Washburn,32,12,89,26,29
+Wisconsin,Washington,16,8,93,9,22
+Wisconsin,Waukesha,11,6,93,7,17
+Wisconsin,Waupaca,29,10,89,17,28
+Wisconsin,Waushara,37,13,92,23,28
+Wisconsin,Winnebago,22,10,87,13,26
+Wisconsin,Wood,27,9,92,18,25
+Wyoming,Albany,16,17,87,16,25
+Wyoming,Big Horn,41,21,89,18,15
+Wyoming,Campbell,51,14,85,9,24
+Wyoming,Carbon,54,20,79,16,28
+Wyoming,Converse,41,16,79,14,20
+Wyoming,Crook,47,21,93,11,22
+Wyoming,Fremont,69,22,69,20,37
+Wyoming,Goshen,36,19,84,24,30
+Wyoming,Hot Springs,37,21,93,16,23
+Wyoming,Johnson,29,19,86,14,18
+Wyoming,Laramie,55,17,77,16,36
+Wyoming,Lincoln,34,17,84,13,17
+Wyoming,Natrona,51,16,72,15,30
+Wyoming,Park,25,19,91,17,21
+Wyoming,Platte,41,20,86,18,39
+Wyoming,Sheridan,30,17,85,14,26
+Wyoming,Sublette,43,15,83,8,13
+Wyoming,Sweetwater,53,16,81,13,26
+Wyoming,Teton,40,18,93,14,9
+Wyoming,Uinta,46,17,87,14,20
+Wyoming,Washakie,41,20,81,16,15
+Wyoming,Weston,38,18,85,13,22
